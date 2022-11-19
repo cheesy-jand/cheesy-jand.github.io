@@ -1,0 +1,28 @@
+Cheeses sorted by style
+===================
+
+.. toctree::
+   :maxdepth: 1
+
+
+   Alpine
+   Asiago
+   Bleu
+   Brie-like
+   Caciacavallo
+   Cheddar
+   Chevre
+   Comte
+   Edam
+   Flavored
+   Gouda
+   Gruyere
+   Manchego
+   Parmesan
+   Pecorino
+   Pepper Jack
+   Provolone
+   Taleggio
+   Tomme
+   Vegan
+   Other
