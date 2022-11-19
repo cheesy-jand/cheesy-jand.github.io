@@ -8,11 +8,13 @@ Happy 30th birthday, J! YTBAILYTM!
 ......
 
 .. image:: cheesepics/IMG-0645.jpg
-        :width: 250px        
+        :height: 250px     
 .. image:: cheesepics/IMG-0649.jpg
-        :width: 250px
+        :height: 250px
+.. image:: cheesepics/engagementfeta.jpg
+        :height: 250px 
 
-Hi! Welcome to our cheese journal!
+Welcome to our cheese journal!
 
 Navigation
 .....

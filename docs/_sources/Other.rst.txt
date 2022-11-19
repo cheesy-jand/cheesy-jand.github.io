@@ -52,6 +52,19 @@ Appalachian (Meadow Creek)
 - **Julie's comments**: Yellowy pale, semi soft cheese with a brown & white soft rind. Creamy, rich, funky in that way that goes up your throat/i9nto nose. Not unpleasant, though. Earthy & woodsy, not very salty, probably good on apples & some pepper jelly. Better first day for me.  **3.49/5**
 - **Andrew's comments**: Funky, earthy, a bit horseradishy but not spicy (much). Buttery yellow inside, white moldy rind. Texture is sticky, coats your mouth. Not one I'd want a lot of, but very tasty for a couple bites.  **4.1/5**
 
+Doeling (Boxcar)
+----------------- 
+.. image:: cheesepics/doeling.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: North Carolina
+- **Milk**: Goat
+- **Purchase location**: Weaver Street
+- **Purchase date**: 07/18/22
+- **Julie's comments**: Soft creamy white cheese with occasional green flakes in center & rind. Creamy, salty, that soft cheese funk that has gotten more aggressive with time. Sends that staticy flavor in my throat… distracts me from any other flavors.  **1.76/5**
+- **Andrew's comments**: Soft gooey center, a bit slimy, with pretty thin firmer rind. Salty & funky. Hard to explain why but I don't care for this brand of funk as much as others like New Moon.  **1.8/5**
+
 Fontina (Trader Joe's)
 ----------------- 
 .. image:: cheesepics/fontina-semi-soft-cheese.jpg 
@@ -116,6 +129,19 @@ Hickory Grove (Chapel Hill Creamery)
 - **Purchase date**: 08/21/21
 - **Julie's comments**: Butter and cheddar and a leeetle brie had a hot threesome to make this fine cheese. Semi soft, pale yellow/firm rind. A bit funky but only subtly (but smells funkier). Great on crackers, with salty spread, or alone. Creamy inside.  **4.81/5**
 - **Andrew's comments**: A top tier cheese to be sure. Very buttery and nice semi squishy texture, kind of like a butter & paneer baby (but better than that sounds). Great with salty tortilla chips.  **4.7/5**
+
+Hika Bay (Saxon Homestead Creamery)
+----------------- 
+.. image:: cheesepics/51lT2Z3we-L._SX679_.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: Wisconsin
+- **Milk**: Cow
+- **Purchase location**: Whole Foods
+- **Purchase date**: 08/16/22
+- **Julie's comments**: Firm, tan cheese with pale orange rind - smooth consistent gummy/creamy texture. Mild nutty & toast/caramel/butterscotch (?) flavor, also buttercream, not salty. Multifunctional cheese. Would pair with most things. Not remarkable, but good.  **3.18/5**
+- **Andrew's comments**: At first it tastes like Swiss, but tastier & more complex. Nutty & caramely & a bit sweet. Texture is smooth & a bit gummy, but not too much. Some occassional crystal "sparkles". Not a fave, but good & unique addition to cheese board.  **3.3/5**
 
 Humboldt Fog (Cypress Grove)
 ----------------- 

@@ -79,4 +79,13 @@ Mild Triple Crème Brie (Wegmans)
 - **Andrew's comments**: Super creamy and soft, much more than average Brie. Nice chewy rind as contrast. More funky than average brie, subtle Bleu notes.  **4.0/5**
 - **Thanks to Barb & Rob Necarsulmer for this cheese!**
 
+New Moon (Chapel Hill Creamery)
+----------------- 
+- **Origin**: North Carolina
+- **Milk**: Cow
+- **Purchase location**: Weaver Street
+- **Purchase date**: 07/10/22
+- **Julie's comments**: Soft white cheese - white criss-crossed rind with gooey tan inside, "semi-ripened". Very creamy, semi-salty, funky cheese - like the funk/tang/"electric-ish" flavor that goes to back of throat. A bit too funky for me, but not bad.  **1.97/5**
+- **Andrew's comments**: Interesting texture, semi-firm chewy rind with gooey center. Especially cold it has nice mouth feel. Mild up front, salty funky flavor comes in midway through. Interesting unique funk, has grown on me.  **3.5/5**
+
 

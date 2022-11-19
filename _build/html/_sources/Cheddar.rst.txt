@@ -26,6 +26,19 @@ Cheddar Infused with Basil Hayden's Bourbon (Beehive Cheese)
 - **Julie's comments**: Tan firm cheese, no rind. Caramel notes upfront, with a mild salty/acidic tang later, melts well. Tastes like a mild cheddar with a hint of booze. Best with bourbon, meh alone.  **1.98/5**
 - **Andrew's comments**: Fairly mild, a bit sharp like white cheddar. I don't really taste the bourbon, except maybe slightly at rind. Very forgettable honestly.  **1.3/5**
 
+Daisy Hoop Cheese (Ashe County Cheese)
+----------------- 
+.. image:: cheesepics/Ashe-County-Cheese5-400x526-1340542279 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: North Carolina
+- **Milk**: Cow
+- **Purchase location**: Weaver Street
+- **Purchase date**: 07/18/22
+- **Julie's comments**: Firm orange cheese with a thick red wax rind, no holes. Very mild, slightly tangy, a little nutty, pretty generic. Tastes like a mild grocery store cheddar - pretty boring, but quite snackable & could add to burrito bowls or burger (not bad, just v boring).  **2.16/5**
+- **Andrew's comments**: Orange cheddar, pretty mild but some tangy sharpness, & slightly creamy. Reminds me of cheddar "fancier" cheese sticks. Not the most unique, but very snackable & comforting. Like I could eat a giant chunk of this and a baguette as a meal.  **2.6/5**
+
 Dubliner (Kerrygold)
 ----------------- 
 .. image:: cheesepics/large_deb1d16c-fdcd-4554-b9f5-d1ce935b7f0a.jpg 
@@ -38,6 +51,19 @@ Dubliner (Kerrygold)
 - **Purchase date**: 05/08/21
 - **Julie's comments**: Pale/white, semihard, aged. Cheddar-like. Good melted. Good general cheese. Sharp, pairs with many things. Not very exciting, but tasty. Note: Do not remember well.  **3.3/5**
 - **Andrew's comments**: Don't remember well, but I think I like it? Paired great with chips and salsa.  **3.5/5**
+
+English Farmhouse Cheddar (Barbers)
+----------------- 
+.. image:: cheesepics/barbers.png 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: England
+- **Milk**: Cow
+- **Purchase location**: Weaver Street
+- **Purchase date**: 07/31/22
+- **Julie's comments**: Firm, off white, crumbly block. Sharp, salty, nutty aged cheddar, a teeny bit of caramel/toast (?) at the roof of the mouth. Would pair well with a spicy or sweet jam, also with bourbon. I could eat this all day.   **4.01/5**
+- **Andrew's comments**: Very creamy, semi-sharp, and a bit tangy. Firm texture with surprise crystals here and there. V snackable.  **3.8/5**
 
 High Plains Cheddar (Murray's Cheese)
 ----------------- 
@@ -101,6 +127,20 @@ Ten Year Aged Cheddar (Hook's Cheese Company)
 - **Julie's comments**: Orange in color, firm. Creamy upon putting in mouth, melts well. Sharp, nutty, salty. Smooth, delicious, incredible. Hard to rate…  **4.85/5**
 - **Andrew's comments**: So creamy, literally melts in your mouth. Goes through a couple different flavor stages, all delicious. Sharp but not overload. Definitely one of the best cheeses I've had.  **4.9/5**
 - **Thanks to Allie Bukowski & Glenn Palmer for this cheese!**
+
+Ten Year Aged Cheddar (Hook's Cheese Company)
+----------------- 
+.. image:: cheesepics/hooks-cheese-company-cheddar-aged-10-year-1S-1401.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: Wisconsin
+- **Milk**: Cow
+- **Purchase location**: Fromagination
+- **Purchase date**: 07/31/22
+- **Julie's comments**: Woahh this is some excellent cheese - a pale orange color, firm, with a slight crumble but still creamy. Salty, creamy, nutty, sharp cheddar flavor with some medium sized salt & calcium crystals that bring a crunchy surprise. Great with bourbon, crackers, air, really anything. Perhaps slightly too salty, though.  **4.67/5**
+- **Andrew's comments**: Intense cheddar essence, sharp, tangy, salty. Dense aged texture, but melts in your mouth. Some random crystals bring a nice surprise. A bit gummy. So rich I don't want much at a time, but damn that's tasty.  **4.6/5**
+- **Thanks to Deanna Zhu for this cheese!**
 
 Vermont Seriously Sharp White Cheddar (Cabot)
 ----------------- 

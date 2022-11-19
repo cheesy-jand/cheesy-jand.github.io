@@ -106,4 +106,17 @@ Robusto Gouda (Kaasiaggio)
 - **Julie's comments**: Tan, firm cheese with red/orange rind. Quite aged, so nutty and sharp with a mild funky after taste. Salty! Good with rackers and a spread or with salad, pasta! Better fresh, dries quickly.  **3.12/5**
 - **Andrew's comments**: Hard cheese, much closer to Parmesan flavor/texture than traditional Gouda. Has crystals that look like mold (but not). Pretty forgettable honestly, middle of road.  **2.3/5**
 
+Smoked Gouda (Unknown)
+----------------- 
+.. image:: cheesepics/smoked-gouda-blend-031080-1.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: Unknown
+- **Milk**: Unknown
+- **Purchase location**: Weaver Street
+- **Purchase date**: 07/23/22
+- **Julie's comments**: Firm, tan-yellow cheese with slightly darker yellow-brown thin rind. Gummy, creamy texture. Nutty, buttery flavor with smokiness later - subtle umami, not overpowering smoke. Could mindlessly eat half a block - not thrilling but quite snackable.  **3.23/5**
+- **Andrew's comments**: Nice smoky smell, semi-smoky taste with creamy nuttiness. Gummy texture, reminds me of cheap processed cheese like Monterrey Jack, not my favorite. Definitely snackable, trail vibes. Very tasty with hummus.  **2.4/5**
+
 

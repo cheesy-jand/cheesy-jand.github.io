@@ -14,6 +14,7 @@ Cheeses sorted by style
    Chevre
    Comte
    Edam
+   Feta
    Flavored
    Gouda
    Gruyere

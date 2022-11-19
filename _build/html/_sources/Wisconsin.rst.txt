@@ -41,6 +41,19 @@ Evalon  (LaClare Creamery)
 - **Andrew's comments**: Very interesting and unique flavor, similar to Parmesan or asiago but more subtle. Not my favorite texture (slightly grainy), but otherwise amazing.  **4.5/5**
 - **Thanks to Allie Bukowski & Glenn Palmer for this cheese!**
 
+Hika Bay (Saxon Homestead Creamery)
+----------------- 
+.. image:: cheesepics/51lT2Z3we-L._SX679_.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Other
+- **Milk**: Cow
+- **Purchase location**: Whole Foods
+- **Purchase date**: 08/16/22
+- **Julie's comments**: Firm, tan cheese with pale orange rind - smooth consistent gummy/creamy texture. Mild nutty & toast/caramel/butterscotch (?) flavor, also buttercream, not salty. Multifunctional cheese. Would pair with most things. Not remarkable, but good.  **3.18/5**
+- **Andrew's comments**: At first it tastes like Swiss, but tastier & more complex. Nutty & caramely & a bit sweet. Texture is smooth & a bit gummy, but not too much. Some occassional crystal "sparkles". Not a fave, but good & unique addition to cheese board.  **3.3/5**
+
 Merlot Bellavitano (Sartori)
 ----------------- 
 .. image:: cheesepics/pdp-size-bv-merlot-wedge.jpg 
@@ -66,6 +79,19 @@ Mobay (Carr Valley)
 - **Purchase date**: 07/09/22
 - **Julie's comments**: Layered off white cheese, bottom layer light color, thin blue/brown line, then speckled tan - firmish, no rind. Creamy, tangy goat-cheese-like flavor - light, a bit buttery on tan side (but both sides taste very similar). Like cheddar & goat & Manchego.  **4.01/5**
 - **Andrew's comments**: Interesting look, not much variation in taste despite line through middle. Sharp, creamy, a bit tangy. Quite a bit like sharp white cheddar, but a bit fuller flavor profile. Super snackable, could eat a lot of this. Not the most unique but solid choice for spread.  **3.5/5**
+
+Organic Grand Cru Reserve (Roth)
+----------------- 
+.. image:: cheesepics/Untitled-design-31.png 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Alpine
+- **Milk**: Cow
+- **Purchase location**: Whole Foods
+- **Purchase date**: 08/15/22
+- **Julie's comments**: Firm, pale tan cheese with a darker edge & a brownish gray rind. Gritty texture, salty, and pretty grassy/earthy flavor. Reminds me of a gruyere. Decent cheese, not the most versatile, but okay.  **2.28/5**
+- **Andrew's comments**: Gummy & gritty texture, grassy/livestocky flavor, mild in center but funkier rind. Reminds me of a few others which generally aren't my favorite.  **1.7/5**
 
 Pleasant Ridge Reserve (Uplands Cheese Company)
 ----------------- 
@@ -93,6 +119,19 @@ Rosemary and olive oil asiago (Sartori)
 - **Julie's comments**: Great cheese. Sharp, appropriate salt level, lasts long without getting moldy. Versatile yet flavorful.  **4.3/5**
 - **Andrew's comments**: Really nice rosemary bits, refreshing. Agree with Julie's notes.  **4.2/5**
 
+Smoked Provolone (Mezza Luna)
+----------------- 
+.. image:: cheesepics/mezzaluna.png 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Provolone
+- **Milk**: Cow
+- **Purchase location**: Whole Foods
+- **Purchase date**: 08/16/22
+- **Julie's comments**: Firm, tan round cheese with slightly browner exterior. Mild smoky flavor up front, then a nutty, mozzarella-y, grassy flavor. Gummy texture, dries out with time - so best fresh, and melty. Solid cheese, not remarkable.  **2.52/5**
+- **Andrew's comments**: Smoky, meaty, buttery flavor. Smooth & bouncy texture. Tasty & snackable, though a bit processey seeming. Would probably be great on a melty sandwich or quesodilla.  **2.7/5**
+
 Ten Year Aged Cheddar (Hook's Cheese Company)
 ----------------- 
 .. image:: cheesepics/hooks-cheese-company-cheddar-aged-10-year-1S-1401.jpg 
@@ -106,5 +145,19 @@ Ten Year Aged Cheddar (Hook's Cheese Company)
 - **Julie's comments**: Orange in color, firm. Creamy upon putting in mouth, melts well. Sharp, nutty, salty. Smooth, delicious, incredible. Hard to rate…  **4.85/5**
 - **Andrew's comments**: So creamy, literally melts in your mouth. Goes through a couple different flavor stages, all delicious. Sharp but not overload. Definitely one of the best cheeses I've had.  **4.9/5**
 - **Thanks to Allie Bukowski & Glenn Palmer for this cheese!**
+
+Ten Year Aged Cheddar (Hook's Cheese Company)
+----------------- 
+.. image:: cheesepics/hooks-cheese-company-cheddar-aged-10-year-1S-1401.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Cheddar
+- **Milk**: Cow
+- **Purchase location**: Fromagination
+- **Purchase date**: 07/31/22
+- **Julie's comments**: Woahh this is some excellent cheese - a pale orange color, firm, with a slight crumble but still creamy. Salty, creamy, nutty, sharp cheddar flavor with some medium sized salt & calcium crystals that bring a crunchy surprise. Great with bourbon, crackers, air, really anything. Perhaps slightly too salty, though.  **4.67/5**
+- **Andrew's comments**: Intense cheddar essence, sharp, tangy, salty. Dense aged texture, but melts in your mouth. Some random crystals bring a nice surprise. A bit gummy. So rich I don't want much at a time, but damn that's tasty.  **4.6/5**
+- **Thanks to Deanna Zhu for this cheese!**
 
 

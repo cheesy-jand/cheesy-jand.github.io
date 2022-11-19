@@ -1,3 +1,6 @@
+### rerun analysis & setup
+python3 cheesy_setup.py
+
 ### remake html using sphinx 
 make clean
 make html

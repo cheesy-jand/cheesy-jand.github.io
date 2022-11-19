@@ -4,7 +4,7 @@ Cheeses sorted by rating
 .. toctree::
    :maxdepth: 1
 
-Ten Year Aged Cheddar (Hook's Cheese Company)
+1. Ten Year Aged Cheddar (Hook's Cheese Company)
 ----------------- 
 .. image:: cheesepics/hooks-cheese-company-cheddar-aged-10-year-1S-1401.jpg 
         :align: right 
@@ -19,7 +19,7 @@ Ten Year Aged Cheddar (Hook's Cheese Company)
 - **Andrew's comments**: So creamy, literally melts in your mouth. Goes through a couple different flavor stages, all delicious. Sharp but not overload. Definitely one of the best cheeses I've had.  **4.9/5**
 - **Thanks to Allie Bukowski & Glenn Palmer for this cheese!**
 
-High Plains Cheddar (Murray's Cheese)
+2. High Plains Cheddar (Murray's Cheese)
 ----------------- 
 .. image:: cheesepics/20615300000.0.jpg 
         :align: right 
@@ -34,7 +34,7 @@ High Plains Cheddar (Murray's Cheese)
 - **Andrew's comments**: Very unique flavor - definitely a cheddar (medium sharp), but also sweet & nutty. Very delicious. Pairs great with bourbon, as Murray's suggests. Great alone, I expect would make great burger or grilled cheese too.  **4.8/5**
 - **Thanks to Tim & Abigail Necarsulmer for this cheese!**
 
-Pecorino Romano DOP (Tigros)
+3. Pecorino Romano DOP (Tigros)
 ----------------- 
 .. image:: cheesepics/pecorinoromano.png 
         :align: right 
@@ -49,7 +49,7 @@ Pecorino Romano DOP (Tigros)
 - **Andrew's comments**: This cheese is so good. Like what Parmesan wants to be after its 10,000 hours. Creamy, salty, nutty, umami. Hard & crumbly but pleasant mouth feel.  **4.8/5**
 - **Thanks to Giulia Fragola for this cheese!**
 
-Hickory Grove (Chapel Hill Creamery)
+4. Hickory Grove (Chapel Hill Creamery)
 ----------------- 
 .. image:: cheesepics/1350f13d6c2df6d7f334d5e2e93cb40a.jpg 
         :align: right 
@@ -63,7 +63,22 @@ Hickory Grove (Chapel Hill Creamery)
 - **Julie's comments**: Butter and cheddar and a leeetle brie had a hot threesome to make this fine cheese. Semi soft, pale yellow/firm rind. A bit funky but only subtly (but smells funkier). Great on crackers, with salty spread, or alone. Creamy inside.  **4.81/5**
 - **Andrew's comments**: A top tier cheese to be sure. Very buttery and nice semi squishy texture, kind of like a butter & paneer baby (but better than that sounds). Great with salty tortilla chips.  **4.7/5**
 
-Evalon  (LaClare Creamery)
+5. Ten Year Aged Cheddar (Hook's Cheese Company)
+----------------- 
+.. image:: cheesepics/hooks-cheese-company-cheddar-aged-10-year-1S-1401.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Cheddar
+- **Origin**: Wisconsin
+- **Milk**: Cow
+- **Purchase location**: Fromagination
+- **Purchase date**: 07/31/22
+- **Julie's comments**: Woahh this is some excellent cheese - a pale orange color, firm, with a slight crumble but still creamy. Salty, creamy, nutty, sharp cheddar flavor with some medium sized salt & calcium crystals that bring a crunchy surprise. Great with bourbon, crackers, air, really anything. Perhaps slightly too salty, though.  **4.67/5**
+- **Andrew's comments**: Intense cheddar essence, sharp, tangy, salty. Dense aged texture, but melts in your mouth. Some random crystals bring a nice surprise. A bit gummy. So rich I don't want much at a time, but damn that's tasty.  **4.6/5**
+- **Thanks to Deanna Zhu for this cheese!**
+
+6. Evalon  (LaClare Creamery)
 ----------------- 
 .. image:: cheesepics/Evalon_A.650x464.72res-300x214@2x.jpg 
         :align: right 
@@ -78,7 +93,7 @@ Evalon  (LaClare Creamery)
 - **Andrew's comments**: Very interesting and unique flavor, similar to Parmesan or asiago but more subtle. Not my favorite texture (slightly grainy), but otherwise amazing.  **4.5/5**
 - **Thanks to Allie Bukowski & Glenn Palmer for this cheese!**
 
-Spring Fever (Prodigal Farm)
+7. Spring Fever (Prodigal Farm)
 ----------------- 
 - **Style**: Other
 - **Origin**: North Carolina
@@ -88,7 +103,7 @@ Spring Fever (Prodigal Farm)
 - **Julie's comments**: Soft white cheese with crumbly white center, off-white creamy outer layer, & classic white textured rind. Tangy, salty chevre-like interior, then creamy buttery Brie-like outer layer. Mild funk especially in creamy part, which I like less. Has metallic after taste. Overall I like a lot, surprisingly. So good with pepper jelly.  **4.39/5**
 - **Andrew's comments**: So good & unique. Super creamy, texture in between chevre & Brie. Also has tangy flavor, lemony, some bites even remind me of lemon bar (cheesecake version), but not sweet. Semi salty & nic, mild funk. Agreed about pepper jelly.  **4.85/5**
 
-Caciacavallo (Julia's uncle)
+8. Caciacavallo (Julia's uncle)
 ----------------- 
 .. image:: cheesepics/caciacavallo.png 
         :align: right 
@@ -103,7 +118,7 @@ Caciacavallo (Julia's uncle)
 - **Andrew's comments**: Honestly such a strange cheese… very confusing taste, but it has grown on me and I love it. Salty and meaty, texture a bit like jerky especially near rind. Would probably go great with charcuterie if that's your thing. Also kind of sour, vaguely like kimchi? Extremely snackable, especially with chip to take the edge off. Very unique.  **4.69/5**
 - **Thanks to Giulia Fragola for this cheese!**
 
-Pyrenees Brebis (Murray's Cheese)
+9. Pyrenees Brebis (Murray's Cheese)
 ----------------- 
 .. image:: cheesepics/pyrenees.png 
         :align: right 
@@ -118,7 +133,7 @@ Pyrenees Brebis (Murray's Cheese)
 - **Andrew's comments**: Quite subtle taste but very nice when you pay attention. Nutty earthy sheeps milk taste. Very unique texture, with gradient from medium to hard, and almost sandy rind (but in pleasant way).  **4.3/5**
 - **Thanks to Tim & Abigail Necarsulmer for this cheese!**
 
-Kaltbach Le Cremeaux (Emmi)
+10. Kaltbach Le Cremeaux (Emmi)
 ----------------- 
 .. image:: cheesepics/kaltbach.png 
         :align: right 
@@ -132,7 +147,7 @@ Kaltbach Le Cremeaux (Emmi)
 - **Julie's comments**: Creamy, nutty, smooth with subtle funkiness. Semi hard, off-white color. Stands alone but great with chips, definitely a fave.  **4.68/5**
 - **Andrew's comments**: Very nice cheese to eat alone (like by itself, you can be with loved ones). Nutty, creamy, but subtle, very umami.  **4.3/5**
 
-Goat Gouda (Cablanca)
+11. Goat Gouda (Cablanca)
 ----------------- 
 .. image:: cheesepics/0125167135d9fb1ea47106eb0aa4af28.jpg 
         :align: right 
@@ -146,7 +161,7 @@ Goat Gouda (Cablanca)
 - **Julie's comments**: Off white color, firm. Tangy like goat cheese, but creamy, buttery & nutty like gouda. Melts well, great alone or with most things. Purchased with Chardonnay for Becky.  **4.82/5**
 - **Andrew's comments**: Great cheese, similar to white cheddar but not too sharp, more nutty. Nice goaty crumbly mouth feel.  **4.1/5**
 
-Naked Goat Cheese (Quesera Montesinos)
+12. Naked Goat Cheese (Quesera Montesinos)
 ----------------- 
 .. image:: cheesepics/nakedgoat.png 
         :align: right 
@@ -160,7 +175,7 @@ Naked Goat Cheese (Quesera Montesinos)
 - **Julie's comments**: Slightly off-white, firm, mildly crumbly cheese, no rind. Creamy texture when softened. Tangy goat flavor, grassy, slightly acid, buttery flavor. Incredibly snackable - could eat a whole block at once.  **4.29/5**
 - **Andrew's comments**: Mmmm so tasty & snackable. Salty, tangy, creamy, some cottage cheese essence but tastier. Fairly soft & crumbly, plus some melting in mouth.  **4.55/5**
 
-Rosemary and olive oil asiago (Sartori)
+13. Rosemary and olive oil asiago (Sartori)
 ----------------- 
 .. image:: cheesepics/pdp-size-asiago-rosemary-wedge.jpg 
         :align: right 
@@ -174,7 +189,7 @@ Rosemary and olive oil asiago (Sartori)
 - **Julie's comments**: Great cheese. Sharp, appropriate salt level, lasts long without getting moldy. Versatile yet flavorful.  **4.3/5**
 - **Andrew's comments**: Really nice rosemary bits, refreshing. Agree with Julie's notes.  **4.2/5**
 
-Leonara (Mitica)
+14. Leonara (Mitica)
 ----------------- 
 .. image:: cheesepics/017044-mitica-leonora-01.jpg 
         :align: right 
@@ -188,7 +203,7 @@ Leonara (Mitica)
 - **Julie's comments**: Soft white goat's milk cheese, gray rind, looks like brie. Funky & tanky, very creamy, texture almost like cream cheese. At first I didn't like it, but it grew on me. Very rick, but also light/bright.  **4.13/5**
 - **Andrew's comments**: Very unusual, creamy & soft like brie but with bleu-like funkiness. Great on its own. Would be interesting on a burger.  **4.3/5**
 
-16 Month Gouda (might be 18 or 36… those seem to be two options) (Clarina)
+15. 16 Month Gouda (might be 18 or 36… those seem to be two options) (Clarina)
 ----------------- 
 .. image:: cheesepics/clarina.png 
         :align: right 
@@ -202,7 +217,7 @@ Leonara (Mitica)
 - **Julie's comments**: Yum! Hard tan cheese with white crystals scattered through it, & an orange waxy rind. Tastes quite sharp & aged, like a Pecorino, but has nutty & caramely notes like a Gouda. Dries out a bit with time, but still tasty. So snackable.  **4.57/5**
 - **Andrew's comments**: Quite aged, hard cheese with interesting crystals texture inside. Very caramely, semi sharp, nutty, & hint of orange. Tasty but a bit rich for me to have more than a couple pieces. Dried out, eat fast.  **3.8/5**
 
-Herbed goat cheese log (not sure which one) (Celebrity Dairy)
+16. Herbed goat cheese log (not sure which one) (Celebrity Dairy)
 ----------------- 
 - **Style**: Chevre
 - **Origin**: North Carolina
@@ -212,7 +227,7 @@ Herbed goat cheese log (not sure which one) (Celebrity Dairy)
 - **Julie's comments**: Goat cheese log that is flavorful inside and out. Coated with herbs, black pepper, salt, but inside also has zest/garlic herb flavor. Creamy, crowd pleaser. Froze to save and still tastes good!  **4.1/5**
 - **Andrew's comments**: So delicate & creamy & rich, the cheese melts in your mouth. Salt & herbs on outside are subtle but tasty. Good solo, on chips, on salad, etc.  **4.2/5**
 
-Merlot Bellavitano (Sartori)
+17. Merlot Bellavitano (Sartori)
 ----------------- 
 .. image:: cheesepics/pdp-size-bv-merlot-wedge.jpg 
         :align: right 
@@ -226,7 +241,7 @@ Merlot Bellavitano (Sartori)
 - **Julie's comments**: Hard/firm pale cheese with deep purple rind. Rind tastes like wine! Sharp aged cheese that is excellent for snacking. Great with wine, chocolate, most things.  **4.11/5**
 - **Andrew's comments**: Semi hard, semi crumbly texture. Nutty flavor, somewhat sweet, with salty wine rind. Very tasty alone or with chips, excellent snack cheese. Super tasty with semisweet chololate chip, per Sartori suggestion.  **4.1/5**
 
-Aged Mimolette (Isigny Ste Mere)
+18. Aged Mimolette (Isigny Ste Mere)
 ----------------- 
 .. image:: cheesepics/eyJidWNrZXQiOiJtZXJjYXRvLWltYWdlcyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJpbnNpZGUiLCJ3aWR0aCI6NzAwLCJoZWlnaHQiOjQ2N319LCJrZXkiOiJwcm9kdWN0LWltYWdlcy9ERU12aEJBVXgxSFFvc3IwVjJPcU.jpg 
         :align: right 
@@ -240,7 +255,7 @@ Aged Mimolette (Isigny Ste Mere)
 - **Julie's comments**: Burnt sienna, orangey hard cheese, tan irregular rind. Nutty, sharp, similar to parmesan but sweeter and creamier/less crumbly. Great alone, maybe with a sweet spread.  **4.0/5**
 - **Andrew's comments**: Very nice flavor, nutty & smooth & sweet. Whole foods placard said this was the Willy Wanka of Cheese, but luckily the sweetness is subtle. Tasty solo, doesn't need chips.  **4.1/5**
 
-Campo de Montalban (Quesos Corcuera)
+19. Campo de Montalban (Quesos Corcuera)
 ----------------- 
 .. image:: cheesepics/campo-de-montalban-1.jpg 
         :align: right 
@@ -254,7 +269,21 @@ Campo de Montalban (Quesos Corcuera)
 - **Julie's comments**: Firm/semi hard, creamy. + Will melt a little. Tastes like a Manchego had a baby with a mild cheddar. I like it! A bit earthy, yummy.  **4.3/5**
 - **Andrew's comments**: I agree, Machego-like! Mild but great snack cheese Nice with chips and salsa  **3.8/5**
 
-Quadrello di Bufala (Quattro Portoni)
+20. Capricho de Cabra (Mitica)
+----------------- 
+.. image:: cheesepics/Capricho-de-Cabra-Primary-1-scaled.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Chevre
+- **Origin**: Spain
+- **Milk**: Goat
+- **Purchase location**: Weaver Street
+- **Purchase date**: 07/31/22
+- **Julie's comments**: Soft, crumbly, white round cheese with classic goat look. Creamy, buttery texture - melts in the mouth. Very rich, tangy & somehow buttery flavor, with a little bit of grass taste too. One of the best goat cheeses I've had I think. So rich, hard to eat a lot.  **4.03/5**
+- **Andrew's comments**: Creamy & buttery flavor, melty once the crumbles get in your mouth. Goes through a couple phases, mild goaty/creamy up front, with heavy tang that kicks in later. Benefits a lot from some salt on a chip.  **4.0/5**
+
+21. Quadrello di Bufala (Quattro Portoni)
 ----------------- 
 .. image:: cheesepics/4797.jpg 
         :align: right 
@@ -268,7 +297,7 @@ Quadrello di Bufala (Quattro Portoni)
 - **Julie's comments**: Creamy, soft, salty cheese with a salty, gritty rind. A bit hunky, but not stinky at all. Goes great on crackers (needs a crisp), with a jam or preserves. This cheese grew on me.  **4.12/5**
 - **Andrew's comments**: Brie-like texture, very creamy, fairly mild but has a nice salty funk if you pay attention, especially at rind, with interesting gritty texture. Grew on me too, maybe the rind at back was a bit more flavorful.  **3.8/5**
 
-Ubriacone (Mitica)
+22. Ubriacone (Mitica)
 ----------------- 
 .. image:: cheesepics/ubriacone.png 
         :align: right 
@@ -282,7 +311,21 @@ Ubriacone (Mitica)
 - **Julie's comments**: Pale off-white firm cheese with a dark purple rind that makes drilled holes into center. Aged, nutty, slightly sharp, slightly caramely? Like cheddar + goat (subtle tang). Rind tastes like wine! Quite tasty. Dangerously snackable.  **4.08/5**
 - **Andrew's comments**: Center is very creamy, semi sharp, semi nutty. Fairly soft, semi gummy texture. Outer rind more firm, stronger nutty flavors and a hint of sour flavor. Maybe siney subtly? I like outer part better, inner a bit rich for me.  **3.8/5**
 
-Midnight Moon (Cypress Grove)
+23. English Farmhouse Cheddar (Barbers)
+----------------- 
+.. image:: cheesepics/barbers.png 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Cheddar
+- **Origin**: England
+- **Milk**: Cow
+- **Purchase location**: Weaver Street
+- **Purchase date**: 07/31/22
+- **Julie's comments**: Firm, off white, crumbly block. Sharp, salty, nutty aged cheddar, a teeny bit of caramel/toast (?) at the roof of the mouth. Would pair well with a spicy or sweet jam, also with bourbon. I could eat this all day.   **4.01/5**
+- **Andrew's comments**: Very creamy, semi-sharp, and a bit tangy. Firm texture with surprise crystals here and there. V snackable.  **3.8/5**
+
+24. Midnight Moon (Cypress Grove)
 ----------------- 
 .. image:: cheesepics/midnight.png 
         :align: right 
@@ -296,7 +339,7 @@ Midnight Moon (Cypress Grove)
 - **Julie's comments**: Sharp, sweet/deep & nutty goat cheese. Hard, off-white, thin rind. Great alone (I prefer alone vs on crackers). Mild yet complex flavor, goes with most things  **4.67/5**
 - **Andrew's comments**: Interesting nutty flavor, somewhat Parmesany texture. I like it but nothing spectacular in my opinion (sorry J)  **3.1/5**
 
-Carolina Moon (Chapel Hill Creamery)
+25. Carolina Moon (Chapel Hill Creamery)
 ----------------- 
 .. image:: cheesepics/carolina-moon-cheese-960_640.jpg 
         :align: right 
@@ -310,7 +353,7 @@ Carolina Moon (Chapel Hill Creamery)
 - **Julie's comments**: White rind with slightly yellow soft interior. Very rich, creamy, buttery - a bit too much for me. Like a brie, but stronger, a bit more buttery & a bit of funk. I respect it, but this isn't my favorite style of cheese.  **3.06/5**
 - **Andrew's comments**: Rich & buttery, a bit funky but not too much. Soft center, firmer/chewy rind. I love this cheese, I could eat a whole wheel of this and a baguette for dinner.  **4.6/5**
 
-Appalachian (Meadow Creek)
+26. Appalachian (Meadow Creek)
 ----------------- 
 .. image:: cheesepics/appalachian.png 
         :align: right 
@@ -324,7 +367,7 @@ Appalachian (Meadow Creek)
 - **Julie's comments**: Yellowy pale, semi soft cheese with a brown & white soft rind. Creamy, rich, funky in that way that goes up your throat/i9nto nose. Not unpleasant, though. Earthy & woodsy, not very salty, probably good on apples & some pepper jelly. Better first day for me.  **3.49/5**
 - **Andrew's comments**: Funky, earthy, a bit horseradishy but not spicy (much). Buttery yellow inside, white moldy rind. Texture is sticky, coats your mouth. Not one I'd want a lot of, but very tasty for a couple bites.  **4.1/5**
 
-Comte (Wegmans)
+27. Comte (Wegmans)
 ----------------- 
 .. image:: cheesepics/00278551000002-cmRni8SlSTeAog1-en-US-0_s500.jpg 
         :align: right 
@@ -339,7 +382,7 @@ Comte (Wegmans)
 - **Andrew's comments**: Nice semi-hard, semi-crumbly, chewy mouthfeel. Nutty, medium umami. Great snacking cheese.  **3.9/5**
 - **Thanks to Barb & Rob Necarsulmer for this cheese!**
 
-Mobay (Carr Valley)
+28. Mobay (Carr Valley)
 ----------------- 
 .. image:: cheesepics/mobay-900-768x768.jpg 
         :align: right 
@@ -353,7 +396,7 @@ Mobay (Carr Valley)
 - **Julie's comments**: Layered off white cheese, bottom layer light color, thin blue/brown line, then speckled tan - firmish, no rind. Creamy, tangy goat-cheese-like flavor - light, a bit buttery on tan side (but both sides taste very similar). Like cheddar & goat & Manchego.  **4.01/5**
 - **Andrew's comments**: Interesting look, not much variation in taste despite line through middle. Sharp, creamy, a bit tangy. Quite a bit like sharp white cheddar, but a bit fuller flavor profile. Super snackable, could eat a lot of this. Not the most unique but solid choice for spread.  **3.5/5**
 
-Mild Triple Crème Brie (Wegmans)
+29. Mild Triple Crème Brie (Wegmans)
 ----------------- 
 .. image:: cheesepics/triplecremebrie.png 
         :align: right 
@@ -368,7 +411,7 @@ Mild Triple Crème Brie (Wegmans)
 - **Andrew's comments**: Super creamy and soft, much more than average Brie. Nice chewy rind as contrast. More funky than average brie, subtle Bleu notes.  **4.0/5**
 - **Thanks to Barb & Rob Necarsulmer for this cheese!**
 
-Zamarano (Mitica)
+30. Zamarano (Mitica)
 ----------------- 
 .. image:: cheesepics/large_d8458e12-1f6d-4b40-8576-52ce99b9bd1c.jpg 
         :align: right 
@@ -382,7 +425,7 @@ Zamarano (Mitica)
 - **Julie's comments**: Off white firm cheese with thin patterned red-brown rind. Creamy, milky, mildly tangy/yogurty flavor. A bit grassy, chalky in a good way, also has tastes of sliced American cheese, but only the good part of that. Versatile, snackable, but not a standout. Lasts long! Cool.  **3.23/5**
 - **Andrew's comments**: Salty, creamy, tangy, semi-sharp. True, a hint of American cheese vibe, but very tasty. Nice semi-firm texture, with some subtle gritty "sparkles", and I like the grooves on rind. Very snackable, and would make amazing grilled cheese/mac & cheese.  **4.1/5**
 
-Taleggio DOP (Unknown)
+31. Taleggio DOP (Unknown)
 ----------------- 
 .. image:: cheesepics/taleggioweaver.png 
         :align: right 
@@ -397,7 +440,7 @@ Taleggio DOP (Unknown)
 - **Andrew's comments**: Quite rich and creamy, soft but "sticker" texture than other Taleggio. I wish it had a firmer rind like the other. Tastes fairly funky and quite salty. Feels a bit one dimensional compared to the other Taleggio.  **2.7/5**
 - **Thanks to Giulia Fragola for this cheese!**
 
-Pichin (Lou Bergier)
+32. Pichin (Lou Bergier)
 ----------------- 
 .. image:: cheesepics/Lou-Bergier-Pichin-2.jpg 
         :align: right 
@@ -411,7 +454,7 @@ Pichin (Lou Bergier)
 - **Julie's comments**: Raw cow milk, sea salt, thistle flowers. A unique cheese - white, firm, tan waxy rind. Very mild tangy funk up front, then salty, some grassy butter taste. Tasted some floral notes when first opened, but not by day 3. Quite pleasing.  **3.92/5**
 - **Andrew's comments**: I go back & forth on this one, not sure if it's different parts of the cheese, or just different nights & moods. At its best, it's buttery/creamy, tangy, unique flavor. Nice semi-hard texture. At less inspired moments it reminds me of generic white cheddar.  **3.3/5**
 
-Redbud (Boxcar)
+33. Redbud (Boxcar)
 ----------------- 
 .. image:: cheesepics/Redbud-1.jpg 
         :align: right 
@@ -425,7 +468,7 @@ Redbud (Boxcar)
 - **Julie's comments**: Pimenton rubbed & smoked cheese. Hard, yellow/tan, aged cheese with a mottled red/brown thin rind - paprika-y! Mild nutty, salty, tangy flavor in interior. Subtle smoky, woodsy, mildly funky exterior by rind. Quite snackable, a bit dry. Great with pepper jelly.  **2.89/5**
 - **Andrew's comments**: Hard yellow cheese with interesting granules adding texture. Dried out a bit since we got it. Nutty, salty-sweet, & smoky/spicy (mild) after taste. Semi-funky rind. Great on its own, with chips, or with pepper jelly.  **4.3/5**
 
-6 Month Aged Ossau Iraty (Agour)
+34. 6 Month Aged Ossau Iraty (Agour)
 ----------------- 
 .. image:: cheesepics/51N3Efr+mIL.jpg 
         :align: right 
@@ -439,7 +482,7 @@ Redbud (Boxcar)
 - **Julie's comments**: Firm, tan, aged cheese with harder transparentish outer rim & thin funky rind. Grassy & sweet/caramely flavor, but also nice aged nutty & creamy flavor. Gummy texture that turns creamy in mouth. Very snackable.  **3.48/5**
 - **Andrew's comments**: Caramely, slightly sharp, salty, creamy inside, with medium soft texture. Extra snackable. Rind is hard & dry, not great texture, but interesting funky taste, quite different.  **3.7/5**
 
-Estate Gouda (Murray's Cheese)
+35. Estate Gouda (Murray's Cheese)
 ----------------- 
 .. image:: cheesepics/20470800000.1.jpg 
         :align: right 
@@ -454,7 +497,17 @@ Estate Gouda (Murray's Cheese)
 - **Andrew's comments**: Firm near rind, softer & a bit less pleasant (kind of American cheesy) in terms of texture near center. Rich, earthy, "cool" taste, with caramel & nuttiness. Intersting flavor, especially closer to rind. Would give a bit higher rating near rind (4.1), and lower near center (2.5)  **3.3/5**
 - **Thanks to Tim & Abigail Necarsulmer for this cheese!**
 
-Grand Camembert (Delice de France)
+36. Smoked Cheddar (Ayr-Back Farms)
+----------------- 
+- **Style**: Cheddar
+- **Origin**: Pennsylvania
+- **Milk**: Cow
+- **Purchase location**: Pocopson Meadow Farm store
+- **Purchase date**: 12/25/21
+- **Julie's comments**: Subtle smoky flavor on top of a mildly sharp cheddar. Creamy, fatty, a bit crumbly. Seems to melt well. Extra nudge on rating for freshness.  **4.01/5**
+- **Andrew's comments**: Soft & slightly chewy, slightly crumbly. Pretty mild, somewhat sharp & smoky. Gets extra points based on ambiance & getting to see farm animals. Would probably make a great quesodilla.  **3.0/5**
+
+37. Grand Camembert (Delice de France)
 ----------------- 
 .. image:: cheesepics/large_a67e8722-24f5-4eff-8b0a-44f2c6085bc9.jpg 
         :align: right 
@@ -468,17 +521,7 @@ Grand Camembert (Delice de France)
 - **Julie's comments**: Soft off-white cheese with white & tan chalky rind. Brie-like - buttery, rich, creamy interior with mild, salty taste and slight funk that tingles the very back of mouth. Like creamy salted butter that went bad yesterday, but not necessarily in a bad way.  **3.21/5**
 - **Andrew's comments**: Extra soft gooey center, pleasingly oily & melts in your mouth. Then outer rind gives just enough texture. Nice creamy brie-like flavor, fairly mild especially upfront. Some salty funk comes in later.  **3.8/5**
 
-Smoked Cheddar (Ayr-Back Farms)
------------------ 
-- **Style**: Cheddar
-- **Origin**: Pennsylvania
-- **Milk**: Cow
-- **Purchase location**: Pocopson Meadow Farm store
-- **Purchase date**: 12/25/21
-- **Julie's comments**: Subtle smoky flavor on top of a mildly sharp cheddar. Creamy, fatty, a bit crumbly. Seems to melt well. Extra nudge on rating for freshness.  **4.01/5**
-- **Andrew's comments**: Soft & slightly chewy, slightly crumbly. Pretty mild, somewhat sharp & smoky. Gets extra points based on ambiance & getting to see farm animals. Would probably make a great quesodilla.  **3.0/5**
-
-Midnight Moon (Cypress Grove)
+38. Midnight Moon (Cypress Grove)
 ----------------- 
 .. image:: cheesepics/midnight.png 
         :align: right 
@@ -493,7 +536,7 @@ Midnight Moon (Cypress Grove)
 - **Andrew's comments**: Nutty & quite milky flavored. Semi-hard, crumbly texture. I want to like this one, it seems like a nice cheese, but just doesn't do much for me, kind of boring. Sorry!  **2.4/5**
 - **Thanks to Samantha Tulenko for this cheese!**
 
-Aged Gouda (Old Amsterdam)
+39. Aged Gouda (Old Amsterdam)
 ----------------- 
 .. image:: cheesepics/old-amsterdam-old-amsterdam-18-month-aged-gouda-ch.jpg 
         :align: right 
@@ -507,7 +550,7 @@ Aged Gouda (Old Amsterdam)
 - **Julie's comments**: Tan-orange color with brown waxy rind. Dries out with time. Pretty mild flavor - sharper toward the rind (a bit cheddar like) and then a nutty, mild caramel flavor in the middle. Good with a light red wine, eg Pacific Redwood Organic Pinot 2020.   **3.1/5**
 - **Andrew's comments**: Quite tasty, sweet & caramely at first, with more sharp cheddary flavor later. A bit firmer than most Goudas which is nice. Very snackable, nice with salty chip, good pairing with our Pinot Noir with spice flavors.  **3.7/5**
 
-Dubliner (Kerrygold)
+40. Dubliner (Kerrygold)
 ----------------- 
 .. image:: cheesepics/large_deb1d16c-fdcd-4554-b9f5-d1ce935b7f0a.jpg 
         :align: right 
@@ -521,7 +564,7 @@ Dubliner (Kerrygold)
 - **Julie's comments**: Pale/white, semihard, aged. Cheddar-like. Good melted. Good general cheese. Sharp, pairs with many things. Not very exciting, but tasty. Note: Do not remember well.  **3.3/5**
 - **Andrew's comments**: Don't remember well, but I think I like it? Paired great with chips and salsa.  **3.5/5**
 
-Humboldt Fog (Cypress Grove)
+41. Humboldt Fog (Cypress Grove)
 ----------------- 
 .. image:: cheesepics/000461796-1.jpg 
         :align: right 
@@ -536,7 +579,7 @@ Humboldt Fog (Cypress Grove)
 - **Andrew's comments**: Very soft and creamy, funky taste, bleu-ish flavor. Interesting texture, different parts are gooey/chewy. Similar to Leonara, but not as good.  **3.5/5**
 - **Thanks to Barb & Rob Necarsulmer for this cheese!**
 
-Cranberry Wensleydale (Somerdale)
+42. Cranberry Wensleydale (Somerdale)
 ----------------- 
 .. image:: cheesepics/wensleydalecranberry.png 
         :align: right 
@@ -550,7 +593,7 @@ Cranberry Wensleydale (Somerdale)
 - **Julie's comments**: Thick waxy purple rind, pale purple crumbly interior with small dried cranberries. Dessert cheese - sweet but not overly so (not syrupy). Crumbles in mouth, creamy with texture from cranberry chunks. Mild, yogurty flavor - many Thanksgiving vibes. Tasty when mood right.  **3.69/5**
 - **Andrew's comments**: Tastes like a relatively unsweet cheesecake, texture as well. Cranberry is nice, not too strong. Cheese itself is Gouda-y or Cheddary, nothing too special. Dessert or cheese/fruit plate cheese, not ideal for mid dinner snacking.  **2.9/5**
 
-Provolone Picante (Auricchio)
+43. Provolone Picante (Auricchio)
 ----------------- 
 .. image:: cheesepics/AURICCHIO-PROVOLONE.jpg 
         :align: right 
@@ -565,7 +608,21 @@ Provolone Picante (Auricchio)
 - **Andrew's comments**: Sharp and salty, tastes a bit like the Pecorino Romano I think, but more subtle. Crumbly texture, slightly grainy. Pretty good, but not super memorable.  **2.6/5**
 - **Thanks to Giulia Fragola for this cheese!**
 
-Taleggio (Unknown)
+44. Hika Bay (Saxon Homestead Creamery)
+----------------- 
+.. image:: cheesepics/51lT2Z3we-L._SX679_.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Other
+- **Origin**: Wisconsin
+- **Milk**: Cow
+- **Purchase location**: Whole Foods
+- **Purchase date**: 08/16/22
+- **Julie's comments**: Firm, tan cheese with pale orange rind - smooth consistent gummy/creamy texture. Mild nutty & toast/caramel/butterscotch (?) flavor, also buttercream, not salty. Multifunctional cheese. Would pair with most things. Not remarkable, but good.  **3.18/5**
+- **Andrew's comments**: At first it tastes like Swiss, but tastier & more complex. Nutty & caramely & a bit sweet. Texture is smooth & a bit gummy, but not too much. Some occassional crystal "sparkles". Not a fave, but good & unique addition to cheese board.  **3.3/5**
+
+45. Taleggio (Unknown)
 ----------------- 
 .. image:: cheesepics/taleggioweaver.png 
         :align: right 
@@ -579,7 +636,7 @@ Taleggio (Unknown)
 - **Julie's comments**: A creamy, funky, salty cheese with a soft interior and crusty exterior. Has a special blue-green "cat fur" (or something) mold on outside. Grew on me but not my favorite. Maybe needs a fig jam or something?  **2.5/5**
 - **Andrew's comments**: Very creamy, soft buttery texture. A bit of funk but fairly subtle. Really nice on salty chip.  **3.9/5**
 
-Valtellina Casera (Unknown)
+46. Valtellina Casera (Unknown)
 ----------------- 
 .. image:: cheesepics/69ab8b3e427a6bd756e47275c6c8a368.jpg 
         :align: right 
@@ -593,7 +650,7 @@ Valtellina Casera (Unknown)
 - **Julie's comments**: Pale, off-white hard aged cheese with some white crystals through interior. Very nutty, a bit woodsy, with a slight caramel after taste, kind of Pecorino-like. Very snackable, will dry out with time. *Note: rated whilst COVID infected, taste mostly unaffected  **3.74/5**
 - **Andrew's comments**: Interior of cheese is salty, umami, a bit sour/citrusy & nutty. Between a Pecorino Romano & Caciacavallo. Near the rind is hard & rubbery & less flavorful, maybe ours dried out. Rated 3.6 interior, 1.5 exterior.  **2.6/5**
 
-Sottocenere al Tartufo (Mitica)
+47. Sottocenere al Tartufo (Mitica)
 ----------------- 
 .. image:: cheesepics/000415441-1.jpg 
         :align: right 
@@ -607,7 +664,7 @@ Sottocenere al Tartufo (Mitica)
 - **Julie's comments**: Pale white cheese with dusty, 2mm thick purple-black rind. Cheese is creamy, buttery, garlicky - very truffle-like. Sweet undernotes, but mostly strong truffle flavor overpowers. Rind is gritty, but I don't hate it. Very snackable, but rich so I eat/want less.  **3.01/5**
 - **Andrew's comments**: Very truffly & garlicky, tastes more like an hors d'oeuvres than just cheese. The underlying cheese is creamy though unremarkable, but truffle flavor dominates. Snackable on its own, very nice with naan, probably other bread.  **3.3/5**
 
-2 Year Extra Sharp Cheddar (Grafton Village)
+48. 2 Year Extra Sharp Cheddar (Grafton Village)
 ----------------- 
 .. image:: cheesepics/GraftonCheese_2YearCheddar_wPKG_Final_lg.png 
         :align: right 
@@ -621,7 +678,21 @@ Sottocenere al Tartufo (Mitica)
 - **Julie's comments**: Raw milk Vermont Cheddar. Off-white, crumbly, extra sharp chaddar that is snackable AF. Creamy when melted, with salty and mildly earthy later notes; a crowd pleaser. Great with chips & salsa, beans (?), also bourbon, maybe a white or fruitier wine.  **3.01/5**
 - **Andrew's comments**: Sharp but not overbearing, & quite creamy as well. Medium texture, crumbly, "fudgey". Note the most unique, but gotta like a nice cheddar. Does make me long for the High Plains Cheddar though.  **3.2/5**
 
-Coppinger (Sequatchie Cove)
+49. WFM Colston Basset Stilton (Neal's Yard)
+----------------- 
+.. image:: cheesepics/stilton.png 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Bleu
+- **Origin**: England
+- **Milk**: Cow
+- **Purchase location**: Whole Foods
+- **Purchase date**: 08/16/22
+- **Julie's comments**: It's blue! Or rather tan & crumbly, streaked with grayish blue lines. Very salty, funky & staticky, especially in the very blue parts. Non-blue parts are salty, buttery, melt on your tongue. Not my fave, but not bad for bleu cheese.  **2.06/5**
+- **Andrew's comments**: Super buttery & smooth compared to other Bleus. Salty & funky but not overwhelming. Super tasty, I really like it, & not huge Bleu fan generally. Nice with buffalo "chicken", probably great on a burger.  **4.1/5**
+
+50. Coppinger (Sequatchie Cove)
 ----------------- 
 .. image:: cheesepics/coppinger.png 
         :align: right 
@@ -635,7 +706,7 @@ Coppinger (Sequatchie Cove)
 - **Julie's comments**: Yellowy firm cheese with a bleu-ish mottled line in the middle & a maxy tan rind. Tastes like fake butter, but too much, and fake onion slightly. Creamy, fatty taste, also a bit sweet. Tastes processed but doesn't feel processed? I think it's the over the top butter...  **2.15/5**
 - **Andrew's comments**: Sue me, I like butter! Tasty, buttery, tangy, with a tiny bit of farmy aftertaste. Interesting texture, semi chewy inside, bit harder rind. Super snackable solo, would also be great grated over pasta.  **4.0/5**
 
-Irish Cheddar (McCall's Shamrock Cheese)
+51. Irish Cheddar (McCall's Shamrock Cheese)
 ----------------- 
 .. image:: cheesepics/large_f4e9325d-a9b2-4861-9b58-8fb30c47bcc0.jpg 
         :align: right 
@@ -649,7 +720,7 @@ Irish Cheddar (McCall's Shamrock Cheese)
 - **Julie's comments**: Sharp, aged, creamy white cheddar, kinda tangy. Crumbly sort of, melts in chunks, good with spice, would be good with spreads or dried fruit maybe. Pretty average cheese.  **3.05/5**
 - **Andrew's comments**: Solid white cheddar, sharp & nice crumbly texture. Above average but only just. Nice with salty chips.  **3.0/5**
 
-Boo-da Gouda (Spring Koe)
+52. Boo-da Gouda (Spring Koe)
 ----------------- 
 .. image:: cheesepics/boodagouda.png 
         :align: right 
@@ -663,7 +734,7 @@ Boo-da Gouda (Spring Koe)
 - **Julie's comments**: Cantaloupe-colored with black rind, hard/firm. Mix of cheddar & gouda taste, not remarkable but good, melts well. Creamyish, sharp deep flavor, good with spice.  **2.81/5**
 - **Andrew's comments**: Agreed, gouda-cheddar hybrid, moderately sharp. Nice semi-crumbly mouthfeel. Very nice with a salty chip, super snackable.  **3.2/5**
 
-Gabietou (Herve Mons)
+53. Gabietou (Herve Mons)
 ----------------- 
 .. image:: cheesepics/tumblr_27c2b53307a44acad637f1164ef071ae_e881b478_500.jpg 
         :align: right 
@@ -677,7 +748,7 @@ Gabietou (Herve Mons)
 - **Julie's comments**: Semi firm/kinda soft tan cheese with a brown crusty rind. Creamy but firm texture. Salty & sheep/funky up front but pretty mellow. Rind is dirt-like and not my fave, but isn't bad. Solid mildly funky cheese.  **3.19/5**
 - **Andrew's comments**: Soft center with gritty-but-in-a-pleasing-way rind, nice texture. Salty, semi-funky rind but mildish center. A bit sweet even. Hard to rate, interesting but also a bit boring simultaneously.  **2.8/5**
 
-Calavander (Chapel Hill Creamery)
+54. Calavander (Chapel Hill Creamery)
 ----------------- 
 .. image:: cheesepics/e188fa6d30566e70e78a45c3b6aea1dd.jpg 
         :align: right 
@@ -691,7 +762,7 @@ Calavander (Chapel Hill Creamery)
 - **Julie's comments**: Pale orange firm cheese with a thin brown rind. Very nutty and tangy with a hint of caramel. Tastes like a Gouda and a Parmesan had a cheese baby. Creamy, versatile, snackable - I could eat a block of this. Note: rind = not tasty.  **3.09/5**
 - **Andrew's comments**: Nutty & caramely, agree on Gouda/Parmesan flavor. It's supposed to be asiago style, but not great resemblance - may have been close before drying out. Kind of gummy texture, not my favorite. Inner part better than rind.  **2.7/5**
 
-Parrano Originale (Parrano)
+55. Parrano Originale (Parrano)
 ----------------- 
 .. image:: cheesepics/large_7b4331bc-06f8-4838-a521-bb65fe7fc096.png 
         :align: right 
@@ -705,7 +776,7 @@ Parrano Originale (Parrano)
 - **Julie's comments**: Tan/yellow cheese, firm, with a red & white rind. Very Gouda-like, nutty & sharp, creamy & buttery. Pretty mild & versatile. Good with crackers & jam. Quite snackable.  **3.04/5**
 - **Andrew's comments**: Gouda-like at center, nutty & caramely, soft texture not my favorite, but flavor is nice though mild. Harder near rind, nicer texture. Dried out a bit, trying to remember initial impressions.  **2.7/5**
 
-XXX Sharp Cheddar (Yancey's Fancy)
+56. XXX Sharp Cheddar (Yancey's Fancy)
 ----------------- 
 .. image:: cheesepics/yanceysxxx.png 
         :align: right 
@@ -719,21 +790,7 @@ XXX Sharp Cheddar (Yancey's Fancy)
 - **Julie's comments**: White, firm block of cheddar. Pretty standard sharp cheddar - creamy, salty, a bit of tang. Maybe deserves one of the Xs in XXX sharp. Good with gams/relish. Very snackable, easy to eat.  **3.12/5**
 - **Andrew's comments**: Pretty standard white cheddar, agreed. Salty, sharp, with a bit of sour. Even standard cheddar is tasty. Very snackable, especially with spicy relish. Could eat a lot of it.  **2.6/5**
 
-Rocket's Robiola (Boxcar)
------------------ 
-.. image:: cheesepics/2017-10-american-cheese-09573-1024x683.jpg 
-        :align: right 
-        :height: 200px 
-
-- **Style**: Other
-- **Origin**: North Carolina
-- **Milk**: Cow
-- **Purchase location**: Weaver Street
-- **Purchase date**: 03/19/22
-- **Julie's comments**: Funky AF, mild stinky cheese - gray ashy rind, creamy/gooey under rind, then soft crumbly white interior. The gooey part has brie-like flavor - tangy, funky, creamy. Center is more funky, kind of sour, earthy. Rind is deep, earthy, sooty. Good with strawberry habenero jam. Tough to rate.  **2.0/5**
-- **Andrew's comments**: Truly strange & unique cheese, different flavors come in waves. Funky, stinky rind, then gooey, slimy layer, then soft chevre-like texture. Creamy Brie flavor up front, then earthier barny flavors, then smokey finish. I have to rate higher than pure enjoyment out of sheer uniqueness.  **3.7/5**
-
-Fontina (Trader Joe's)
+57. Fontina (Trader Joe's)
 ----------------- 
 .. image:: cheesepics/fontina-semi-soft-cheese.jpg 
         :align: right 
@@ -747,7 +804,35 @@ Fontina (Trader Joe's)
 - **Julie's comments**: Pale off-white, semi hard. Versatile. Relatively neutral, not sharp. Semi creamy, a tangier after taste. Melts well, good with spicy.  **3.1/5**
 - **Andrew's comments**: Mild flavored, pretty creamy. Nice texture - slightly chewy. Not the most interesting solo, but plays great with others (chips, TJ green sauce, med deli)  **2.6/5**
 
-Thomasville Tomme (Sweet Grass Dairy)
+58. Rocket's Robiola (Boxcar)
+----------------- 
+.. image:: cheesepics/2017-10-american-cheese-09573-1024x683.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Other
+- **Origin**: North Carolina
+- **Milk**: Cow
+- **Purchase location**: Weaver Street
+- **Purchase date**: 03/19/22
+- **Julie's comments**: Funky AF, mild stinky cheese - gray ashy rind, creamy/gooey under rind, then soft crumbly white interior. The gooey part has brie-like flavor - tangy, funky, creamy. Center is more funky, kind of sour, earthy. Rind is deep, earthy, sooty. Good with strawberry habenero jam. Tough to rate.  **2.0/5**
+- **Andrew's comments**: Truly strange & unique cheese, different flavors come in waves. Funky, stinky rind, then gooey, slimy layer, then soft chevre-like texture. Creamy Brie flavor up front, then earthier barny flavors, then smokey finish. I have to rate higher than pure enjoyment out of sheer uniqueness.  **3.7/5**
+
+59. Smoked Gouda (Unknown)
+----------------- 
+.. image:: cheesepics/smoked-gouda-blend-031080-1.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Gouda
+- **Origin**: Unknown
+- **Milk**: Unknown
+- **Purchase location**: Weaver Street
+- **Purchase date**: 07/23/22
+- **Julie's comments**: Firm, tan-yellow cheese with slightly darker yellow-brown thin rind. Gummy, creamy texture. Nutty, buttery flavor with smokiness later - subtle umami, not overpowering smoke. Could mindlessly eat half a block - not thrilling but quite snackable.  **3.23/5**
+- **Andrew's comments**: Nice smoky smell, semi-smoky taste with creamy nuttiness. Gummy texture, reminds me of cheap processed cheese like Monterrey Jack, not my favorite. Definitely snackable, trail vibes. Very tasty with hummus.  **2.4/5**
+
+60. Thomasville Tomme (Sweet Grass Dairy)
 ----------------- 
 .. image:: cheesepics/thomasvilletomme.png 
         :align: right 
@@ -761,7 +846,7 @@ Thomasville Tomme (Sweet Grass Dairy)
 - **Julie's comments**: Semi-soft tan cheese with sparse holes & a thick bark-like rind with white & brown mold stuff. Middle/inner cheese is nutty, creamy, & subtly funky. Rind/outside is quite funky, earthy, a bit rubbery in texture - but chunky rubber taste/sensation from rind travels up my nose too! Not my fave sensation/taste.  **2.0/5**
 - **Andrew's comments**: Inner part is semi-soft, creamy, fairly mild, slightly sour/funky. Rind & outer part is harder, bit rubbery, & quite funky (some hay, some salt, & horseraddish). I like it, int's interesting.  **3.6/5**
 
-Appalachian (Meadow Creek)
+61. Appalachian (Meadow Creek)
 ----------------- 
 .. image:: cheesepics/appalachian.png 
         :align: right 
@@ -775,7 +860,7 @@ Appalachian (Meadow Creek)
 - **Julie's comments**: Raw milk cheese, aged 60+ days. Off-yellow firm cheese with a tan brown crumbly rind. Unique flavors - sharp & umami with some funk & also licorice taste. Earthy AF. Pretty smooth texture. I want to like it but also not…  **1.8/5**
 - **Andrew's comments**: Very interesting cheese. Texture gradient from smooth medium-hard center to crumbly outer coating. Definitely funky & earthy, with that weirdly pleasant barn floor flavor. Almost too weird, but not quite, I like it.  **3.8/5**
 
-18 Month Aged Comte (Murray's Cheese)
+62. 18 Month Aged Comte (Murray's Cheese)
 ----------------- 
 .. image:: cheesepics/20692500000.3.jpg 
         :align: right 
@@ -790,21 +875,17 @@ Appalachian (Meadow Creek)
 - **Andrew's comments**: Very earthy, actually kind of smells/tastes a bit like a barn, but in a pleasant way (if slightly offputting). Nutty & a bit of caramel. Firm texture & somewhat crumbly.  **3.4/5**
 - **Thanks to Tim & Abigail Necarsulmer for this cheese!**
 
-Robusto Gouda (Kaasiaggio)
+63. New Moon (Chapel Hill Creamery)
 ----------------- 
-.. image:: cheesepics/1350f13d6c2df6d7f334d5e2e93cb40a.jpg 
-        :align: right 
-        :height: 200px 
-
-- **Style**: Gouda
-- **Origin**: Netherlands
+- **Style**: Brie-like
+- **Origin**: North Carolina
 - **Milk**: Cow
-- **Purchase location**: Whole Foods
-- **Purchase date**: 10/30/21
-- **Julie's comments**: Tan, firm cheese with red/orange rind. Quite aged, so nutty and sharp with a mild funky after taste. Salty! Good with rackers and a spread or with salad, pasta! Better fresh, dries quickly.  **3.12/5**
-- **Andrew's comments**: Hard cheese, much closer to Parmesan flavor/texture than traditional Gouda. Has crystals that look like mold (but not). Pretty forgettable honestly, middle of road.  **2.3/5**
+- **Purchase location**: Weaver Street
+- **Purchase date**: 07/10/22
+- **Julie's comments**: Soft white cheese - white criss-crossed rind with gooey tan inside, "semi-ripened". Very creamy, semi-salty, funky cheese - like the funk/tang/"electric-ish" flavor that goes to back of throat. A bit too funky for me, but not bad.  **1.97/5**
+- **Andrew's comments**: Interesting texture, semi-firm chewy rind with gooey center. Especially cold it has nice mouth feel. Mild up front, salty funky flavor comes in midway through. Interesting unique funk, has grown on me.  **3.5/5**
 
-Comte (Jean Charles Arnaud)
+64. Comte (Jean Charles Arnaud)
 ----------------- 
 .. image:: cheesepics/31p-V9l66EL._SX300_QL70_ML2_.jpg 
         :align: right 
@@ -818,7 +899,21 @@ Comte (Jean Charles Arnaud)
 - **Julie's comments**: Firm white/tan cheese. Mild nutty/grassy flavor with a crumbly/gritty/gummy texture. Tasty, but nothing remarkable - good neutral cheese for a cheese plate with a spicy jam or something.  **2.82/5**
 - **Andrew's comments**: Nutty, milky, grassy flavor. Pretty mild, tasty but not the most exciting. Semi firm texture, a bit crumbly.  **2.6/5**
 
-Edam (Castello)
+65. Robusto Gouda (Kaasiaggio)
+----------------- 
+.. image:: cheesepics/1350f13d6c2df6d7f334d5e2e93cb40a.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Gouda
+- **Origin**: Netherlands
+- **Milk**: Cow
+- **Purchase location**: Whole Foods
+- **Purchase date**: 10/30/21
+- **Julie's comments**: Tan, firm cheese with red/orange rind. Quite aged, so nutty and sharp with a mild funky after taste. Salty! Good with rackers and a spread or with salad, pasta! Better fresh, dries quickly.  **3.12/5**
+- **Andrew's comments**: Hard cheese, much closer to Parmesan flavor/texture than traditional Gouda. Has crystals that look like mold (but not). Pretty forgettable honestly, middle of road.  **2.3/5**
+
+66. Edam (Castello)
 ----------------- 
 .. image:: cheesepics/KPFBS.jpg 
         :align: right 
@@ -832,7 +927,21 @@ Edam (Castello)
 - **Julie's comments**: Pale yellow/tan, firm but semi hard. Sharp, like a mild cheddar. Creamy, a bit nutty. Good melted. Pretty mild.  **3.0/5**
 - **Andrew's comments**: Pretty mild, somewhat sharp. Chewy/bouncy texture. Good snack cheese, reminds me of cubes on cheese tray, fairly unmemorable.  **2.3/5**
 
-Pecorino Romano   (Murray's Cheese)
+67. Smoked Provolone (Mezza Luna)
+----------------- 
+.. image:: cheesepics/mezzaluna.png 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Provolone
+- **Origin**: Wisconsin
+- **Milk**: Cow
+- **Purchase location**: Whole Foods
+- **Purchase date**: 08/16/22
+- **Julie's comments**: Firm, tan round cheese with slightly browner exterior. Mild smoky flavor up front, then a nutty, mozzarella-y, grassy flavor. Gummy texture, dries out with time - so best fresh, and melty. Solid cheese, not remarkable.  **2.52/5**
+- **Andrew's comments**: Smoky, meaty, buttery flavor. Smooth & bouncy texture. Tasty & snackable, though a bit processey seeming. Would probably be great on a melty sandwich or quesodilla.  **2.7/5**
+
+68. Pecorino Romano   (Murray's Cheese)
 ----------------- 
 .. image:: cheesepics/pecorinoromano.png 
         :align: right 
@@ -847,7 +956,7 @@ Pecorino Romano   (Murray's Cheese)
 - **Andrew's comments**: Very salty & umami, more oily than creamy. Seems like it would be great over pasta, especially pesto. A bit too salty solo.  **2.6/5**
 - **Thanks to Tim & Abigail Necarsulmer for this cheese!**
 
-Double Crème Brie (Normandie Brie)
+69. Double Crème Brie (Normandie Brie)
 ----------------- 
 .. image:: cheesepics/61156_1.png 
         :align: right 
@@ -861,7 +970,7 @@ Double Crème Brie (Normandie Brie)
 - **Julie's comments**: Mild, soft but not oozy-soft Brie with classic appearance. Creamy but not overwhelmingly so. Rind a bit hard and bitter or dirty-tasting. Overall pretty meh but I don't hate it, which is an improvement for me and Brie I guess.  **2.02/5**
 - **Andrew's comments**: Nice classic Brie, a bit creamy, a bit funky, but not too much. Pretty standard for  Brie, but I like Brie. Was better the first couple of days, feels like it lost a bit of flavor.  **3.1/5**
 
-Drunken Goat (Mitica)
+70. Drunken Goat (Mitica)
 ----------------- 
 .. image:: cheesepics/20025700000.0.jpg 
         :align: right 
@@ -876,7 +985,7 @@ Drunken Goat (Mitica)
 - **Andrew's comments**: Cheese is creamy, milky, Nice but not the most exciting. Medium crumbly/chewy texture. The wine rine is tasty but very subtle, I wish it was more forward.  **2.4/5**
 - **Thanks to Tim & Abigail Necarsulmer for this cheese!**
 
-Fontina Val D'Aosta (Mitica)
+71. Fontina Val D'Aosta (Mitica)
 ----------------- 
 .. image:: cheesepics/daosta.png 
         :align: right 
@@ -890,7 +999,21 @@ Fontina Val D'Aosta (Mitica)
 - **Julie's comments**: Tan semi firm smooth-looking cheese with a patterned thin rind - gradient of firmness toward rind. Interior is smooth, a bit gummy, with woodsy, nutty, creamy, mild flavor. Exterior is very funky, tangy, almost bitter. Ages fine.  **2.04/5**
 - **Andrew's comments**: Very subtle - nice & interesting flavor, but you have to pay attention. Nutty, buttery, semi-funky especially at rind. Very pleasant texture. Semi-hard, with gradient, and particley rind. Bit bitter as aged.  **2.8/5**
 
-Buttermilk Bleu Cheese (Roth)
+72. Daisy Hoop Cheese (Ashe County Cheese)
+----------------- 
+.. image:: cheesepics/Ashe-County-Cheese5-400x526-1340542279 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Cheddar
+- **Origin**: North Carolina
+- **Milk**: Cow
+- **Purchase location**: Weaver Street
+- **Purchase date**: 07/18/22
+- **Julie's comments**: Firm orange cheese with a thick red wax rind, no holes. Very mild, slightly tangy, a little nutty, pretty generic. Tastes like a mild grocery store cheddar - pretty boring, but quite snackable & could add to burrito bowls or burger (not bad, just v boring).  **2.16/5**
+- **Andrew's comments**: Orange cheddar, pretty mild but some tangy sharpness, & slightly creamy. Reminds me of cheddar "fancier" cheese sticks. Not the most unique, but very snackable & comforting. Like I could eat a giant chunk of this and a baguette as a meal.  **2.6/5**
+
+73. Buttermilk Bleu Cheese (Roth)
 ----------------- 
 .. image:: cheesepics/Roth_Product_ButtermilkBlue_4oz-785x690.png 
         :align: right 
@@ -905,7 +1028,7 @@ Buttermilk Bleu Cheese (Roth)
 - **Andrew's comments**: Salty, funky, creamier than most bleu. Tasty in food (on buffalo chik patties, in stirfry), but ok solo or with chips too. Gets kind of old though, don't want too much of it.  **2.3/5**
 - **Thanks to Barb & Rob Necarsulmer for this cheese!**
 
-Pecorino Moro di Sardegna (Tigros)
+74. Pecorino Moro di Sardegna (Tigros)
 ----------------- 
 .. image:: cheesepics/morodisardegna.png 
         :align: right 
@@ -920,7 +1043,7 @@ Pecorino Moro di Sardegna (Tigros)
 - **Andrew's comments**: A bit funky, nutty, umami. Medium firmness, nice texture with harder rind. I keep going back and forth on this one bite to bite. Addendum: After another couple of days I'm back to liking this less.  **2.2/5**
 - **Thanks to Giulia Fragola for this cheese!**
 
-Cave Aged Gruyere (Unknown)
+75. Cave Aged Gruyere (Unknown)
 ----------------- 
 .. image:: cheesepics/49725-GRUYERE-CAVE-AGED-.25-WH-4KG-SWITZERLAND-1.jpg 
         :align: right 
@@ -934,7 +1057,21 @@ Cave Aged Gruyere (Unknown)
 - **Julie's comments**: Tan cheese, firm, with a brown crusty, crumbly rind. Salty, tangy, grassy, a bit cattle-y? In a nice way. Like comte and also a little cheddar vibes, rind is funky. Creamy, gummy texture. Would be good with jam or pepper jelly.  **2.95/5**
 - **Andrew's comments**: Barny, tangy flavor, reminds me of raclette (the cheese, not act), or even fondue flavor. Not my favorite. Texture is a bit gummy, flavor sticks in mouth a while.  **1.6/5**
 
-Keens Farmhouse Cheddar (Neals Yard)
+76. Goat Feta (Singing Spring Farm)
+----------------- 
+.. image:: cheesepics/engagementfeta.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Feta
+- **Origin**: North Carolina
+- **Milk**: Goat
+- **Purchase location**: Singing Spring Farm
+- **Purchase date**: 08/13/22
+- **Julie's comments**: Engagement cheese! Gifted, then bought, from the AirBnB host/farmers where we were engaged! Up front, very salty with a bit of tangy & grassiness from the goat, then still very salty. Needs to be diluted because it's a bit too briny. But it's made locally with love for our love. 5/5 for context.  **2.03/5**
+- **Andrew's comments**: Very salty, briny, more so a couple months in. Unfortunately the salt is a bit overwhelmin, but really nice on top of a salad or food where diluted. But also tastes like love, and so cool that they made with goats we met! Infinity/5 for context.  **2.4/5**
+
+77. Keens Farmhouse Cheddar (Neals Yard)
 ----------------- 
 .. image:: cheesepics/nealsfarmhouse.png 
         :align: right 
@@ -948,7 +1085,7 @@ Keens Farmhouse Cheddar (Neals Yard)
 - **Julie's comments**: Looks like a standard white cheddar, but I would not have guessed it was a cheddar by taste. Smooth, gummy texture. Not very crumbly, salty and tangy flavor, with a sharp sour feeling that lingers at the end. At first I really didn't like it, but it has grown on me. Pair with crackers or a jam (not a spicy one)...hmm...  **2.29/5**
 - **Andrew's comments**: Not the most cheddary, semi-sharp. Kind of tangy and a bit of licorice? And a bit of almost fermented taste that reminds me of the Caciacavallo. Smooth texture with small grains. Overall interesting but not the best.  **2.1/5**
 
-Pleasant Ridge Reserve (Uplands Cheese Company)
+78. Pleasant Ridge Reserve (Uplands Cheese Company)
 ----------------- 
 .. image:: cheesepics/p-pleasant-ridge-wedge.png 
         :align: right 
@@ -962,7 +1099,7 @@ Pleasant Ridge Reserve (Uplands Cheese Company)
 - **Julie's comments**: Tan firm cheese that gets slightly darker towards the thin waxy rind. Subtle flavor - grassy and a bit tangy. Texture is a bit gritty/crumbly - not excellent. Pretty boring - needs a jam or something - or grilling!  **2.25/5**
 - **Andrew's comments**: Flavor is unusual, if subtle and a bit boring. Can't figure out exactly what uniqueness is. Maybe cottage cheese? With a bit of sweetness. Semi-firm texture, bit of grit.  **2.0/5**
 
-Sparkenhoe Red Leicester (Neals Yard)
+79. Sparkenhoe Red Leicester (Neals Yard)
 ----------------- 
 .. image:: cheesepics/279-2048x1365.jpg 
         :align: right 
@@ -976,7 +1113,7 @@ Sparkenhoe Red Leicester (Neals Yard)
 - **Julie's comments**: Bright orange firm aged cheese with a thin waxy rind. Mild flavor - nutty, a bit of sweetness, very earthy taste - kind of like a more mellow cheddar & some dirt. Decent, but not thrilling. Probably would be good melted on a burger.  **2.4/5**
 - **Andrew's comments**: A bit sharp, a bit nutty, a bit earthy. Strange after taste. Hard, a bit crumbly, gritty.  **1.8/5**
 
-Unknown (starts with B) (Unknown)
+80. Unknown (starts with B) (Unknown)
 ----------------- 
 - **Style**: Other
 - **Origin**: Unknown
@@ -986,7 +1123,7 @@ Unknown (starts with B) (Unknown)
 - **Julie's comments**: Dry, hard, a little like Parmesan, but less nutty. A bit bitter? Not melty.  **2.3/5**
 - **Andrew's comments**: Dry and a little crumbly mouth feel. Agreed Parmesany, but less flavorful slightly. Probably good on top of food? But kind of boring as standalone cheese.  **1.8/5**
 
-Vermont Seriously Sharp White Cheddar (Cabot)
+81. Vermont Seriously Sharp White Cheddar (Cabot)
 ----------------- 
 .. image:: cheesepics/seriouslysharpcheddar.png 
         :align: right 
@@ -1000,7 +1137,21 @@ Vermont Seriously Sharp White Cheddar (Cabot)
 - **Julie's comments**: This is not seriously sharp, unless seriously is less sharp than extra, which seems wrong. Mild cheddar, salty, chewy, kinda creamy. Fine/good on burger or sandwich. Meh alone.  **2.0/5**
 - **Andrew's comments**: Semi-creamy, semi-sharp, medium texture. Pretty generic, though very snackable on chips, could eat a lot.  **2.0/5**
 
-Grayson (Meadow Creek)
+82. Organic Grand Cru Reserve (Roth)
+----------------- 
+.. image:: cheesepics/Untitled-design-31.png 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Alpine
+- **Origin**: Wisconsin
+- **Milk**: Cow
+- **Purchase location**: Whole Foods
+- **Purchase date**: 08/15/22
+- **Julie's comments**: Firm, pale tan cheese with a darker edge & a brownish gray rind. Gritty texture, salty, and pretty grassy/earthy flavor. Reminds me of a gruyere. Decent cheese, not the most versatile, but okay.  **2.28/5**
+- **Andrew's comments**: Gummy & gritty texture, grassy/livestocky flavor, mild in center but funkier rind. Reminds me of a few others which generally aren't my favorite.  **1.7/5**
+
+83. Grayson (Meadow Creek)
 ----------------- 
 .. image:: cheesepics/meadow-creek-grayson.jpg 
         :align: right 
@@ -1014,7 +1165,21 @@ Grayson (Meadow Creek)
 - **Julie's comments**: Aged over 60 days. This is a funky cheese. Semi soft inside, hard crusty rind. Deep, fatty flavor, that is also kind of fishy? Pork/ham notes, quite umami. Okay on cracker, slightly warmed on a bittery salad.  **1.6/5**
 - **Andrew's comments**: Did not like this at first but it has grown on me. Definitely funky with strongish smell and weird mix of textures (soft middle, rubbery outside). But flavor is interesting, with a couple "waves". Somehow the aftertaste reminds me of a barn, more pleasant than it sounds.  **2.1/5**
 
-Alpha Tolman (Jasper Hill Farm)
+84. Doeling (Boxcar)
+----------------- 
+.. image:: cheesepics/doeling.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Other
+- **Origin**: North Carolina
+- **Milk**: Goat
+- **Purchase location**: Weaver Street
+- **Purchase date**: 07/18/22
+- **Julie's comments**: Soft creamy white cheese with occasional green flakes in center & rind. Creamy, salty, that soft cheese funk that has gotten more aggressive with time. Sends that staticy flavor in my throat… distracts me from any other flavors.  **1.76/5**
+- **Andrew's comments**: Soft gooey center, a bit slimy, with pretty thin firmer rind. Salty & funky. Hard to explain why but I don't care for this brand of funk as much as others like New Moon.  **1.8/5**
+
+85. Alpha Tolman (Jasper Hill Farm)
 ----------------- 
 .. image:: cheesepics/Alpha+beauty.jpeg 
         :align: right 
@@ -1028,7 +1193,7 @@ Alpha Tolman (Jasper Hill Farm)
 - **Julie's comments**: Yellowy tan firm cheese with a crusty rind. Chalky texture a bit, but still kinda smooth. Earthy, very woodsy flavor with a mild sharpness at end. Reminds me of comte.  **2.23/5**
 - **Andrew's comments**: Flavor pretty mild, earthy, with some later funk that reminds me of fondue in a way. Chalky texture, not my favorite. Addendum: Not so mild actually, distinctly unlikeable taste (but not terrible).  **1.3/5**
 
-Cheddar Infused with Basil Hayden's Bourbon (Beehive Cheese)
+86. Cheddar Infused with Basil Hayden's Bourbon (Beehive Cheese)
 ----------------- 
 .. image:: cheesepics/blog-feature1_2048x.png 
         :align: right 
@@ -1042,7 +1207,7 @@ Cheddar Infused with Basil Hayden's Bourbon (Beehive Cheese)
 - **Julie's comments**: Tan firm cheese, no rind. Caramel notes upfront, with a mild salty/acidic tang later, melts well. Tastes like a mild cheddar with a hint of booze. Best with bourbon, meh alone.  **1.98/5**
 - **Andrew's comments**: Fairly mild, a bit sharp like white cheddar. I don't really taste the bourbon, except maybe slightly at rind. Very forgettable honestly.  **1.3/5**
 
-Double Gloucester, Chive & Onion (Unknown)
+87. Double Gloucester, Chive & Onion (Unknown)
 ----------------- 
 .. image:: cheesepics/double-gloucester-cheese-with-chives-and-onion-768x512.jpg 
         :align: right 
@@ -1056,7 +1221,7 @@ Double Gloucester, Chive & Onion (Unknown)
 - **Julie's comments**: Waxy, gummy, strong chives, semi soft, creamy. Not my favorite, but would try a non-flavored variety.  **1.0/5**
 - **Andrew's comments**: This reminded me of the cheese between crackers in those snacks. Felt overprocessed and a bit weird, but honestly sort of tasty?  **2.1/5**
 
-Swiss Raclette (Emmi)
+88. Swiss Raclette (Emmi)
 ----------------- 
 .. image:: cheesepics/Emmi-Swiss-Raclette-Cheese_Square.jpg 
         :align: right 
@@ -1070,7 +1235,7 @@ Swiss Raclette (Emmi)
 - **Julie's comments**: Firm off white/yellowish cheese with a thin speckled white rind. Mild, nutty, earthy slightly sharp flavor, a bit sweet. Gummy/sticky/thick texture. Needs melting/toasting or something. Would be good raclette. Underwhelming, but not bad.  **1.6/5**
 - **Andrew's comments**: Mild, slightly sharp white cheese. Chewy/gooey, sort of unpleasant texture. Agreed, might be better melty, but pretty boring elsewise.  **1.4/5**
 
-Tomme de Savoie (Herve Mons)
+89. Tomme de Savoie (Herve Mons)
 ----------------- 
 .. image:: cheesepics/hervemons.png 
         :align: right 
@@ -1084,7 +1249,7 @@ Tomme de Savoie (Herve Mons)
 - **Julie's comments**: Yellow/tan semi firm cheese with a brown bark-like rind. Funky, mushroomy, staticky flavor that hits the back of my throat & up the sinuses. Gummy, fatty/sticky texture. Flaky rind. This is so bizarre… not bad but not my favorite  **1.4/5**
 - **Andrew's comments**: Very unique flavor (but not necessarily positive). Earthy, mushroomy, strange. Some hay. Semi-crunchy/flaky texture on rind, gummy interior. It dried out, earlier the inside was gooey & slimy, both options rather weird.  **1.5/5**
 
-Just Like Parmesan (Violife)
+90. Just Like Parmesan (Violife)
 ----------------- 
 .. image:: cheesepics/large_1421739b-1d17-4a4c-8770-6dd85cb10f80.png 
         :align: right 
@@ -1098,7 +1263,7 @@ Just Like Parmesan (Violife)
 - **Julie's comments**: Does not taste just like parmesan, unfortunately. Hard, a bit grainy, starchy. Similar flavor to nutritional yeast - umami, salty. Performed okay blended into pesto. By itself, icky - mixed in with stuff, ok.  **0.8/5**
 - **Andrew's comments**: Yeah definitely not parmesan… tastes a little more similar when dusted, but eating a chunk is unpleasant texture & salty taste that isn't super cheesy.  **0.6/5**
 
-Spicy Jack (Cabot)
+91. Spicy Jack (Cabot)
 ----------------- 
 .. image:: cheesepics/large_b9c0397c-6074-4fcf-935e-d546e2c531de.png 
         :align: right 
