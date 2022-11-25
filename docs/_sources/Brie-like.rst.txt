@@ -23,7 +23,7 @@ Coppinger (Sequatchie Cove)
 - **Milk**: Cow
 - **Purchase location**: Whole Foods
 - **Purchase date**: 07/09/22
-- **Julie's comments**: Yellowy firm cheese with a bleu-ish mottled line in the middle & a maxy tan rind. Tastes like fake butter, but too much, and fake onion slightly. Creamy, fatty taste, also a bit sweet. Tastes processed but doesn't feel processed? I think it's the over the top butter...  **2.15/5**
+- **Julie's comments**: Yellowy firm cheese with a blue-ish mottled line in the middle & a maxy tan rind. Tastes like fake butter, but too much, and fake onion slightly. Creamy, fatty taste, also a bit sweet. Tastes processed but doesn't feel processed? I think it's the over the top butter...  **2.15/5**
 - **Andrew's comments**: Sue me, I like butter! Tasty, buttery, tangy, with a tiny bit of farmy aftertaste. Interesting texture, semi chewy inside, bit harder rind. Super snackable solo, would also be great grated over pasta.  **4.0/5**
 
 Double Crème Brie (Normandie Brie)
@@ -63,7 +63,7 @@ Leonara (Mitica)
 - **Purchase location**: Whole Foods
 - **Purchase date**: 11/25/21
 - **Julie's comments**: Soft white goat's milk cheese, gray rind, looks like brie. Funky & tanky, very creamy, texture almost like cream cheese. At first I didn't like it, but it grew on me. Very rick, but also light/bright.  **4.13/5**
-- **Andrew's comments**: Very unusual, creamy & soft like brie but with bleu-like funkiness. Great on its own. Would be interesting on a burger.  **4.3/5**
+- **Andrew's comments**: Very unusual, creamy & soft like brie but with blue-like funkiness. Great on its own. Would be interesting on a burger.  **4.3/5**
 
 Mild Triple Crème Brie (Wegmans)
 ----------------- 
@@ -76,7 +76,7 @@ Mild Triple Crème Brie (Wegmans)
 - **Purchase location**: Wegmans
 - **Purchase date**: 12/25/21
 - **Julie's comments**: Golly gee so creamy! Buttery with a sour/funky brie taste, salty. Very spreadable - good with flat bread or a stronger cracker flavor. Considering I don't love Brie usually, this is pretty good  **3.49/5**
-- **Andrew's comments**: Super creamy and soft, much more than average Brie. Nice chewy rind as contrast. More funky than average brie, subtle Bleu notes.  **4.0/5**
+- **Andrew's comments**: Super creamy and soft, much more than average Brie. Nice chewy rind as contrast. More funky than average brie, subtle Blue notes.  **4.0/5**
 - **Thanks to Barb & Rob Necarsulmer for this cheese!**
 
 New Moon (Chapel Hill Creamery)

@@ -93,6 +93,19 @@ Midnight Moon (Cypress Grove)
 - **Andrew's comments**: Nutty & quite milky flavored. Semi-hard, crumbly texture. I want to like this one, it seems like a nice cheese, but just doesn't do much for me, kind of boring. Sorry!  **2.4/5**
 - **Thanks to Samantha Tulenko for this cheese!**
 
+Paradiso Reserve (Beemster Cheese)
+----------------- 
+.. image:: cheesepics/Paradiso_Reserve_silver_014011_Wheel+w+Wedge.png 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Other
+- **Milk**: Cow
+- **Purchase location**: Wegmans
+- **Purchase date**: 09/04/22
+- **Julie's comments**: Firm-to-hard pale orange cheese with a wax rind. Aged cheese, nutty, salty, umami with salty crystals in the center in some bites. Tastes like a Gouda and a sharp cheddar or Manchego. Very snackable - does dry out pretty quickly though.  **3.91/5**
+- **Andrew's comments**: Tasty, caramelly, nutty, and a bit tangy. Nice semi firm texture, with occassional crystals. Very snackable, but year it dries out, especially around rind.  **3.5/5**
+
 Parrano Originale (Parrano)
 ----------------- 
 .. image:: cheesepics/large_7b4331bc-06f8-4838-a521-bb65fe7fc096.png 

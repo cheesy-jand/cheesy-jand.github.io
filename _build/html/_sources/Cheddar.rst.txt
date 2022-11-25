@@ -21,7 +21,7 @@ Cheddar Infused with Basil Hayden's Bourbon (Beehive Cheese)
 
 - **Origin**: Utah
 - **Milk**: Cow
-- **Purchase location**: Harris Teater
+- **Purchase location**: Harris Teeter
 - **Purchase date**: 02/23/22
 - **Julie's comments**: Tan firm cheese, no rind. Caramel notes upfront, with a mild salty/acidic tang later, melts well. Tastes like a mild cheddar with a hint of booze. Best with bourbon, meh alone.  **1.98/5**
 - **Andrew's comments**: Fairly mild, a bit sharp like white cheddar. I don't really taste the bourbon, except maybe slightly at rind. Very forgettable honestly.  **1.3/5**
@@ -87,7 +87,7 @@ Irish Cheddar (McCall's Shamrock Cheese)
 
 - **Origin**: Ireland
 - **Milk**: Cow
-- **Purchase location**: Harris Teater
+- **Purchase location**: Harris Teeter
 - **Purchase date**: 09/01/21
 - **Julie's comments**: Sharp, aged, creamy white cheddar, kinda tangy. Crumbly sort of, melts in chunks, good with spice, would be good with spreads or dried fruit maybe. Pretty average cheese.  **3.05/5**
 - **Andrew's comments**: Solid white cheddar, sharp & nice crumbly texture. Above average but only just. Nice with salty chips.  **3.0/5**
@@ -163,7 +163,7 @@ XXX Sharp Cheddar (Yancey's Fancy)
 
 - **Origin**: New York
 - **Milk**: Cow
-- **Purchase location**: Harris Teater
+- **Purchase location**: Harris Teeter
 - **Purchase date**: 05/09/22
 - **Julie's comments**: White, firm block of cheddar. Pretty standard sharp cheddar - creamy, salty, a bit of tang. Maybe deserves one of the Xs in XXX sharp. Good with gams/relish. Very snackable, easy to eat.  **3.12/5**
 - **Andrew's comments**: Pretty standard white cheddar, agreed. Salty, sharp, with a bit of sour. Even standard cheddar is tasty. Very snackable, especially with spicy relish. Could eat a lot of it.  **2.6/5**

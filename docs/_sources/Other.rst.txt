@@ -34,10 +34,10 @@ Appalachian (Meadow Creek)
 
 - **Origin**: Virginia
 - **Milk**: Cow
-- **Purchase location**: Whole Foods
-- **Purchase date**: 02/13/22
-- **Julie's comments**: Raw milk cheese, aged 60+ days. Off-yellow firm cheese with a tan brown crumbly rind. Unique flavors - sharp & umami with some funk & also licorice taste. Earthy AF. Pretty smooth texture. I want to like it but also not…  **1.8/5**
-- **Andrew's comments**: Very interesting cheese. Texture gradient from smooth medium-hard center to crumbly outer coating. Definitely funky & earthy, with that weirdly pleasant barn floor flavor. Almost too weird, but not quite, I like it.  **3.8/5**
+- **Purchase location**: Weaver Street
+- **Purchase date**: 04/28/22
+- **Julie's comments**: Yellowy pale, semi soft cheese with a brown & white soft rind. Creamy, rich, funky in that way that goes up your throat/i9nto nose. Not unpleasant, though. Earthy & woodsy, not very salty, probably good on apples & some pepper jelly. Better first day for me.  **3.49/5**
+- **Andrew's comments**: Funky, earthy, a bit horseradishy but not spicy (much). Buttery yellow inside, white moldy rind. Texture is sticky, coats your mouth. Not one I'd want a lot of, but very tasty for a couple bites.  **4.1/5**
 
 Appalachian (Meadow Creek)
 ----------------- 
@@ -47,10 +47,23 @@ Appalachian (Meadow Creek)
 
 - **Origin**: Virginia
 - **Milk**: Cow
-- **Purchase location**: Weaver Street
-- **Purchase date**: 04/28/22
-- **Julie's comments**: Yellowy pale, semi soft cheese with a brown & white soft rind. Creamy, rich, funky in that way that goes up your throat/i9nto nose. Not unpleasant, though. Earthy & woodsy, not very salty, probably good on apples & some pepper jelly. Better first day for me.  **3.49/5**
-- **Andrew's comments**: Funky, earthy, a bit horseradishy but not spicy (much). Buttery yellow inside, white moldy rind. Texture is sticky, coats your mouth. Not one I'd want a lot of, but very tasty for a couple bites.  **4.1/5**
+- **Purchase location**: Whole Foods
+- **Purchase date**: 02/13/22
+- **Julie's comments**: Raw milk cheese, aged 60+ days. Off-yellow firm cheese with a tan brown crumbly rind. Unique flavors - sharp & umami with some funk & also licorice taste. Earthy AF. Pretty smooth texture. I want to like it but also not…  **1.8/5**
+- **Andrew's comments**: Very interesting cheese. Texture gradient from smooth medium-hard center to crumbly outer coating. Definitely funky & earthy, with that weirdly pleasant barn floor flavor. Almost too weird, but not quite, I like it.  **3.8/5**
+
+Apple Cider Showmmmz (Wegmans)
+----------------- 
+.. image:: cheesepics/showmmmz.png 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: France
+- **Milk**: Cow
+- **Purchase location**: Wegmans
+- **Purchase date**: 09/04/22
+- **Julie's comments**: Soft but sturdy ivory cheese with a tan-brown crumbly, slimyish rind. Subtle grassy, mushroomy flavor, salty at the end, a bit of funky tang, especially at rind. Decent cheese, incredible name, okay flavor.  **2.38/5**
+- **Andrew's comments**: Interesting flavor/texture profression, from salty, chewy, gritty rind at first, hint of a "bright" flavor I can't place. Then moves into grassy, funky, brie-like (but firmer) center. Aftertaste is less pleasant.  **3.4/5**
 
 Doeling (Boxcar)
 ----------------- 
@@ -154,7 +167,7 @@ Humboldt Fog (Cypress Grove)
 - **Purchase location**: Wegmans
 - **Purchase date**: 12/25/21
 - **Julie's comments**: Funky, stinky, smokey-ish cheese. Staticky after taste. Creamy center with thick, white/green rind, salty. Liked on day 1, but less so on day 2. I am conflicted. Would probably like more on a burger or something.  **3.2/5**
-- **Andrew's comments**: Very soft and creamy, funky taste, bleu-ish flavor. Interesting texture, different parts are gooey/chewy. Similar to Leonara, but not as good.  **3.5/5**
+- **Andrew's comments**: Very soft and creamy, funky taste, blue-ish flavor. Interesting texture, different parts are gooey/chewy. Similar to Leonara, but not as good.  **3.5/5**
 - **Thanks to Barb & Rob Necarsulmer for this cheese!**
 
 Kaltbach Le Cremeaux (Emmi)
@@ -195,6 +208,19 @@ Naked Goat Cheese (Quesera Montesinos)
 - **Purchase date**: 07/02/22
 - **Julie's comments**: Slightly off-white, firm, mildly crumbly cheese, no rind. Creamy texture when softened. Tangy goat flavor, grassy, slightly acid, buttery flavor. Incredibly snackable - could eat a whole block at once.  **4.29/5**
 - **Andrew's comments**: Mmmm so tasty & snackable. Salty, tangy, creamy, some cottage cheese essence but tastier. Fairly soft & crumbly, plus some melting in mouth.  **4.55/5**
+
+Paradiso Reserve (Beemster Cheese)
+----------------- 
+.. image:: cheesepics/Paradiso_Reserve_silver_014011_Wheel+w+Wedge.png 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: Netherlands
+- **Milk**: Cow
+- **Purchase location**: Wegmans
+- **Purchase date**: 09/04/22
+- **Julie's comments**: Firm-to-hard pale orange cheese with a wax rind. Aged cheese, nutty, salty, umami with salty crystals in the center in some bites. Tastes like a Gouda and a sharp cheddar or Manchego. Very snackable - does dry out pretty quickly though.  **3.91/5**
+- **Andrew's comments**: Tasty, caramelly, nutty, and a bit tangy. Nice semi firm texture, with occassional crystals. Very snackable, but year it dries out, especially around rind.  **3.5/5**
 
 Parrano Originale (Parrano)
 ----------------- 
@@ -310,6 +336,20 @@ Swiss Raclette (Emmi)
 - **Julie's comments**: Firm off white/yellowish cheese with a thin speckled white rind. Mild, nutty, earthy slightly sharp flavor, a bit sweet. Gummy/sticky/thick texture. Needs melting/toasting or something. Would be good raclette. Underwhelming, but not bad.  **1.6/5**
 - **Andrew's comments**: Mild, slightly sharp white cheese. Chewy/gooey, sort of unpleasant texture. Agreed, might be better melty, but pretty boring elsewise.  **1.4/5**
 
+The Smokin' Goat (Mitica)
+----------------- 
+.. image:: cheesepics/smokingoat.png 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: Spain
+- **Milk**: Goat
+- **Purchase location**: West Chester Food Cupboard
+- **Purchase date**: 09/17/22
+- **Julie's comments**: Ivory cheese with a tan thin rind - firm, homogeous. Mild goaty, tangy with a nutty and butter/umami after notes, like a Gouda I think. Snackable, unremarkable.  **2.45/5**
+- **Andrew's comments**: Smoky, meaty flavor, and some sweeter caramelly, tangy notes. Semi-rubbery, smooth texture, slightly harder rind. Super snackable, could eat a lot of this. But not the most remarkable.  **3.6/5**
+- **Thanks to Barb & Rob Necarsulmer for this cheese!**
+
 Unknown (starts with B) (Unknown)
 ----------------- 
 - **Origin**: Unknown
@@ -327,7 +367,7 @@ Valtellina Casera (Unknown)
 
 - **Origin**: Italy
 - **Milk**: Cow
-- **Purchase location**: Harris Teater
+- **Purchase location**: Harris Teeter
 - **Purchase date**: 04/20/22
 - **Julie's comments**: Pale, off-white hard aged cheese with some white crystals through interior. Very nutty, a bit woodsy, with a slight caramel after taste, kind of Pecorino-like. Very snackable, will dry out with time. *Note: rated whilst COVID infected, taste mostly unaffected  **3.74/5**
 - **Andrew's comments**: Interior of cheese is salty, umami, a bit sour/citrusy & nutty. Between a Pecorino Romano & Caciacavallo. Near the rind is hard & rubbery & less flavorful, maybe ours dried out. Rated 3.6 interior, 1.5 exterior.  **2.6/5**

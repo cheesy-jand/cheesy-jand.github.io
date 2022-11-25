@@ -64,7 +64,7 @@ Leonara (Mitica)
 - **Purchase location**: Whole Foods
 - **Purchase date**: 11/25/21
 - **Julie's comments**: Soft white goat's milk cheese, gray rind, looks like brie. Funky & tanky, very creamy, texture almost like cream cheese. At first I didn't like it, but it grew on me. Very rick, but also light/bright.  **4.13/5**
-- **Andrew's comments**: Very unusual, creamy & soft like brie but with bleu-like funkiness. Great on its own. Would be interesting on a burger.  **4.3/5**
+- **Andrew's comments**: Very unusual, creamy & soft like brie but with blue-like funkiness. Great on its own. Would be interesting on a burger.  **4.3/5**
 
 Naked Goat Cheese (Quesera Montesinos)
 ----------------- 
@@ -91,6 +91,20 @@ Sottocenere al Tartufo (Mitica)
 - **Purchase date**: 03/26/22
 - **Julie's comments**: Pale white cheese with dusty, 2mm thick purple-black rind. Cheese is creamy, buttery, garlicky - very truffle-like. Sweet undernotes, but mostly strong truffle flavor overpowers. Rind is gritty, but I don't hate it. Very snackable, but rich so I eat/want less.  **3.01/5**
 - **Andrew's comments**: Very truffly & garlicky, tastes more like an hors d'oeuvres than just cheese. The underlying cheese is creamy though unremarkable, but truffle flavor dominates. Snackable on its own, very nice with naan, probably other bread.  **3.3/5**
+
+The Smokin' Goat (Mitica)
+----------------- 
+.. image:: cheesepics/smokingoat.png 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Other
+- **Milk**: Goat
+- **Purchase location**: West Chester Food Cupboard
+- **Purchase date**: 09/17/22
+- **Julie's comments**: Ivory cheese with a tan thin rind - firm, homogeous. Mild goaty, tangy with a nutty and butter/umami after notes, like a Gouda I think. Snackable, unremarkable.  **2.45/5**
+- **Andrew's comments**: Smoky, meaty flavor, and some sweeter caramelly, tangy notes. Semi-rubbery, smooth texture, slightly harder rind. Super snackable, could eat a lot of this. But not the most remarkable.  **3.6/5**
+- **Thanks to Barb & Rob Necarsulmer for this cheese!**
 
 Zamarano (Mitica)
 ----------------- 

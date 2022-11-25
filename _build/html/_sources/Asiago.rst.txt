@@ -21,7 +21,7 @@ Rosemary and olive oil asiago (Sartori)
 
 - **Origin**: Wisconsin
 - **Milk**: Cow
-- **Purchase location**: Harris Teater
+- **Purchase location**: Harris Teeter
 - **Purchase date**: 03/15/21
 - **Julie's comments**: Great cheese. Sharp, appropriate salt level, lasts long without getting moldy. Versatile yet flavorful.  **4.3/5**
 - **Andrew's comments**: Really nice rosemary bits, refreshing. Agree with Julie's notes.  **4.2/5**

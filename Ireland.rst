@@ -21,7 +21,7 @@ Irish Cheddar (McCall's Shamrock Cheese)
 
 - **Style**: Cheddar
 - **Milk**: Cow
-- **Purchase location**: Harris Teater
+- **Purchase location**: Harris Teeter
 - **Purchase date**: 09/01/21
 - **Julie's comments**: Sharp, aged, creamy white cheddar, kinda tangy. Crumbly sort of, melts in chunks, good with spice, would be good with spreads or dried fruit maybe. Pretty average cheese.  **3.05/5**
 - **Andrew's comments**: Solid white cheddar, sharp & nice crumbly texture. Above average but only just. Nice with salty chips.  **3.0/5**

@@ -71,11 +71,11 @@ WFM Colston Basset Stilton (Neal's Yard)
         :align: right 
         :height: 200px 
 
-- **Style**: Bleu
+- **Style**: Blue
 - **Milk**: Cow
 - **Purchase location**: Whole Foods
 - **Purchase date**: 08/16/22
-- **Julie's comments**: It's blue! Or rather tan & crumbly, streaked with grayish blue lines. Very salty, funky & staticky, especially in the very blue parts. Non-blue parts are salty, buttery, melt on your tongue. Not my fave, but not bad for bleu cheese.  **2.06/5**
-- **Andrew's comments**: Super buttery & smooth compared to other Bleus. Salty & funky but not overwhelming. Super tasty, I really like it, & not huge Bleu fan generally. Nice with buffalo "chicken", probably great on a burger.  **4.1/5**
+- **Julie's comments**: It's blue! Or rather tan & crumbly, streaked with grayish blue lines. Very salty, funky & staticky, especially in the very blue parts. Non-blue parts are salty, buttery, melt on your tongue. Not my fave, but not bad for blue cheese.  **2.06/5**
+- **Andrew's comments**: Super buttery & smooth compared to other Blues. Salty & funky but not overwhelming. Super tasty, I really like it, & not huge Blue fan generally. Nice with buffalo "chicken", probably great on a burger.  **4.1/5**
 
 

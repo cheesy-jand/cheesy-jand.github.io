@@ -79,4 +79,18 @@ Ubriacone (Mitica)
 - **Julie's comments**: Pale off-white firm cheese with a dark purple rind that makes drilled holes into center. Aged, nutty, slightly sharp, slightly caramely? Like cheddar + goat (subtle tang). Rind tastes like wine! Quite tasty. Dangerously snackable.  **4.08/5**
 - **Andrew's comments**: Center is very creamy, semi sharp, semi nutty. Fairly soft, semi gummy texture. Outer rind more firm, stronger nutty flavors and a hint of sour flavor. Maybe siney subtly? I like outer part better, inner a bit rich for me.  **3.8/5**
 
+Vampire Slayer (Face Rock Creamery)
+----------------- 
+.. image:: cheesepics/Face-Rock-Creamery_vampire-slayer2.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: Oregon
+- **Milk**: Cow
+- **Purchase location**: Carlinos
+- **Purchase date**: 09/17/22
+- **Julie's comments**: Ivory color with orange irregular bits and tiny cracks throughout. Crumbly aged cheddar texture, but creamier. Buttery, paprika-y/cumin/garlic/salty & nutty - supposed to have a bit of ginger & maybe subtle cayenne (but I taste no ginger. Good interesting flavor but quite rich - tastes like salami!  **2.83/5**
+- **Andrew's comments**: Garlicky, oniony, spiced flavors mixed into semi sharp white cheddar-like cheese. Crumbly & a bit mealy texture, not my favorite. Would be goo on top of a pasta or bread, but nothing special alone.  **1.8/5**
+- **Thanks to Barb & Rob Necarsulmer for this cheese!**
+
 

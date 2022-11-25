@@ -1,17 +1,17 @@
 Wisconsin 
 ====================== 
-Buttermilk Bleu Cheese (Roth)
+Buttermilk Blue Cheese (Roth)
 ----------------- 
 .. image:: cheesepics/Roth_Product_ButtermilkBlue_4oz-785x690.png 
         :align: right 
         :height: 200px 
 
-- **Style**: Bleu
+- **Style**: Blue
 - **Milk**: Cow
 - **Purchase location**: Giant
 - **Purchase date**: 05/28/22
 - **Julie's comments**: Salty, stinky, funky, creamy crumbly white & blue-grey cheese with no rind. Usually not my thing, but this is pretty good with savory foods, less salty chips (cheese itself very salty)  **2.34/5**
-- **Andrew's comments**: Salty, funky, creamier than most bleu. Tasty in food (on buffalo chik patties, in stirfry), but ok solo or with chips too. Gets kind of old though, don't want too much of it.  **2.3/5**
+- **Andrew's comments**: Salty, funky, creamier than most blue. Tasty in food (on buffalo chik patties, in stirfry), but ok solo or with chips too. Gets kind of old though, don't want too much of it.  **2.3/5**
 - **Thanks to Barb & Rob Necarsulmer for this cheese!**
 
 Edam (Castello)
@@ -114,7 +114,7 @@ Rosemary and olive oil asiago (Sartori)
 
 - **Style**: Asiago
 - **Milk**: Cow
-- **Purchase location**: Harris Teater
+- **Purchase location**: Harris Teeter
 - **Purchase date**: 03/15/21
 - **Julie's comments**: Great cheese. Sharp, appropriate salt level, lasts long without getting moldy. Versatile yet flavorful.  **4.3/5**
 - **Andrew's comments**: Really nice rosemary bits, refreshing. Agree with Julie's notes.  **4.2/5**

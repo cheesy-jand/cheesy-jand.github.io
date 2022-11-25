@@ -17,6 +17,7 @@ Cheeses sorted by origin
    Netherlands
    New York
    North Carolina
+   Oregon
    Pennsylvania
    Spain
    Switzerland

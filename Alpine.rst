@@ -13,6 +13,19 @@ Alpha Tolman (Jasper Hill Farm)
 - **Julie's comments**: Yellowy tan firm cheese with a crusty rind. Chalky texture a bit, but still kinda smooth. Earthy, very woodsy flavor with a mild sharpness at end. Reminds me of comte.  **2.23/5**
 - **Andrew's comments**: Flavor pretty mild, earthy, with some later funk that reminds me of fondue in a way. Chalky texture, not my favorite. Addendum: Not so mild actually, distinctly unlikeable taste (but not terrible).  **1.3/5**
 
+Challerhocker (Wegmans)
+----------------- 
+.. image:: cheesepics/00278902000002-cmRni8SlSTeAog1-en-US-0_s500.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: Switzerland
+- **Milk**: Cow
+- **Purchase location**: Wegmans
+- **Purchase date**: 09/04/22
+- **Julie's comments**: Tan/pale firm cheese with a waxy crumbly rind. Creamy & mildly grainy texture, dissolves quickly. Salty up front, then grassy and then funky (static up the back of nose at end, especially the rind). At first I really didn't like it, but better on day 2.  **1.53/5**
+- **Andrew's comments**: This one's ok, a bit overly salty and rather funky in hay-like way. Some nice grains in texture. Does go up nose, less pleasant.  **0.8/5**
+
 Organic Grand Cru Reserve (Roth)
 ----------------- 
 .. image:: cheesepics/Untitled-design-31.png 

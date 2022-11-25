@@ -157,7 +157,7 @@ Valtellina Casera (Unknown)
 
 - **Style**: Other
 - **Milk**: Cow
-- **Purchase location**: Harris Teater
+- **Purchase location**: Harris Teeter
 - **Purchase date**: 04/20/22
 - **Julie's comments**: Pale, off-white hard aged cheese with some white crystals through interior. Very nutty, a bit woodsy, with a slight caramel after taste, kind of Pecorino-like. Very snackable, will dry out with time. *Note: rated whilst COVID infected, taste mostly unaffected  **3.74/5**
 - **Andrew's comments**: Interior of cheese is salty, umami, a bit sour/citrusy & nutty. Between a Pecorino Romano & Caciacavallo. Near the rind is hard & rubbery & less flavorful, maybe ours dried out. Rated 3.6 interior, 1.5 exterior.  **2.6/5**

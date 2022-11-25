@@ -27,6 +27,19 @@ Aged Mimolette (Isigny Ste Mere)
 - **Julie's comments**: Burnt sienna, orangey hard cheese, tan irregular rind. Nutty, sharp, similar to parmesan but sweeter and creamier/less crumbly. Great alone, maybe with a sweet spread.  **4.0/5**
 - **Andrew's comments**: Very nice flavor, nutty & smooth & sweet. Whole foods placard said this was the Willy Wanka of Cheese, but luckily the sweetness is subtle. Tasty solo, doesn't need chips.  **4.1/5**
 
+Apple Cider Showmmmz (Wegmans)
+----------------- 
+.. image:: cheesepics/showmmmz.png 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Other
+- **Milk**: Cow
+- **Purchase location**: Wegmans
+- **Purchase date**: 09/04/22
+- **Julie's comments**: Soft but sturdy ivory cheese with a tan-brown crumbly, slimyish rind. Subtle grassy, mushroomy flavor, salty at the end, a bit of funky tang, especially at rind. Decent cheese, incredible name, okay flavor.  **2.38/5**
+- **Andrew's comments**: Interesting flavor/texture profression, from salty, chewy, gritty rind at first, hint of a "bright" flavor I can't place. Then moves into grassy, funky, brie-like (but firmer) center. Aftertaste is less pleasant.  **3.4/5**
+
 Comte (Wegmans)
 ----------------- 
 .. image:: cheesepics/00278551000002-cmRni8SlSTeAog1-en-US-0_s500.jpg 
@@ -91,7 +104,7 @@ Mild Triple Crème Brie (Wegmans)
 - **Purchase location**: Wegmans
 - **Purchase date**: 12/25/21
 - **Julie's comments**: Golly gee so creamy! Buttery with a sour/funky brie taste, salty. Very spreadable - good with flat bread or a stronger cracker flavor. Considering I don't love Brie usually, this is pretty good  **3.49/5**
-- **Andrew's comments**: Super creamy and soft, much more than average Brie. Nice chewy rind as contrast. More funky than average brie, subtle Bleu notes.  **4.0/5**
+- **Andrew's comments**: Super creamy and soft, much more than average Brie. Nice chewy rind as contrast. More funky than average brie, subtle Blue notes.  **4.0/5**
 - **Thanks to Barb & Rob Necarsulmer for this cheese!**
 
 Pyrenees Brebis (Murray's Cheese)

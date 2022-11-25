@@ -7,7 +7,7 @@ Cheeses sorted by style
 
    Alpine
    Asiago
-   Bleu
+   Blue
    Brie-like
    Caciacavallo
    Cheddar
