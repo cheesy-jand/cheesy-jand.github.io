@@ -25,6 +25,6 @@ Taleggio DOP (Unknown)
 - **Purchase date**: 01/09/22
 - **Julie's comments**: Woah! This is tasty and very different from other Taleggio. Unique cheese. Very creamy, a bit buttery, tangy and salty (maybe a bit too salty). Firmer than Brie but similar texture. Excellent with red wine and a simple cracker.  **4.57/5**
 - **Andrew's comments**: Quite rich and creamy, soft but "sticker" texture than other Taleggio. I wish it had a firmer rind like the other. Tastes fairly funky and quite salty. Feels a bit one dimensional compared to the other Taleggio.  **2.7/5**
-- **Thanks to Giulia Fragola for this cheese!**
+- **Thanks to Giulia Fragola et al for this cheese!**
 
 

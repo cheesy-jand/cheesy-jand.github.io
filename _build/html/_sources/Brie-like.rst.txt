@@ -13,6 +13,20 @@ Carolina Moon (Chapel Hill Creamery)
 - **Julie's comments**: White rind with slightly yellow soft interior. Very rich, creamy, buttery - a bit too much for me. Like a brie, but stronger, a bit more buttery & a bit of funk. I respect it, but this isn't my favorite style of cheese.  **3.06/5**
 - **Andrew's comments**: Rich & buttery, a bit funky but not too much. Soft center, firmer/chewy rind. I love this cheese, I could eat a whole wheel of this and a baguette for dinner.  **4.6/5**
 
+Cave-Ripened Mild Brie (Wegmans)
+----------------- 
+.. image:: cheesepics/b042fd9c17daffd4574c125b3057f3982390569b.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: France
+- **Milk**: Cow
+- **Purchase location**: Wegmans
+- **Purchase date**: 09/17/22
+- **Julie's comments**: Creamy soft white cheese, looks like brie. Very mild, only slight funk, very buttery and creamy. Great with a spicy jam, or the raspberry mustard stuff. For brie and me, it's good!  **4.02/5**
+- **Andrew's comments**: Supper buttery/creamy, rich, salty. Fairly mild, a bit of funk up front but dissapates quickly into butter. Nice texture, medium soft, not too runny, with a bit of chewy rind.  **4.1/5**
+- **Thanks to Barb & Rob Necarsulmer for this cheese!**
+
 Coppinger (Sequatchie Cove)
 ----------------- 
 .. image:: cheesepics/coppinger.png 
@@ -25,6 +39,19 @@ Coppinger (Sequatchie Cove)
 - **Purchase date**: 07/09/22
 - **Julie's comments**: Yellowy firm cheese with a blue-ish mottled line in the middle & a maxy tan rind. Tastes like fake butter, but too much, and fake onion slightly. Creamy, fatty taste, also a bit sweet. Tastes processed but doesn't feel processed? I think it's the over the top butter...  **2.15/5**
 - **Andrew's comments**: Sue me, I like butter! Tasty, buttery, tangy, with a tiny bit of farmy aftertaste. Interesting texture, semi chewy inside, bit harder rind. Super snackable solo, would also be great grated over pasta.  **4.0/5**
+
+Cottonseed (Boxcar)
+----------------- 
+.. image:: cheesepics/Boxcarr-Cheese.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: North Carolina
+- **Milk**: Cow + Goat
+- **Purchase location**: Weaver Street
+- **Purchase date**: 10/01/22
+- **Julie's comments**: Soft white ripe cheese that was still a tiny bit firm in the center (not 100% ripe). Creamy, salty, taste up front, then the funk comes up the nose/throat. Rind especially funky, but overall pretty mild. Not as buttery as some Brie-like cheeses. Note: rated while grumpy/tired.  **2.5/5**
+- **Andrew's comments**: Tasty Brie-like cheese, buttery, pretty mild but a nice bit of funk. A bit firmer than typical brie, which I like. But still soft & gooey center, chewier rind. Not remarkable but I like Brie.  **3.5/5**
 
 Double Crème Brie (Normandie Brie)
 ----------------- 
@@ -65,6 +92,20 @@ Leonara (Mitica)
 - **Julie's comments**: Soft white goat's milk cheese, gray rind, looks like brie. Funky & tanky, very creamy, texture almost like cream cheese. At first I didn't like it, but it grew on me. Very rick, but also light/bright.  **4.13/5**
 - **Andrew's comments**: Very unusual, creamy & soft like brie but with blue-like funkiness. Great on its own. Would be interesting on a burger.  **4.3/5**
 
+Little Hosmer (Jasper Hill Farm)
+----------------- 
+.. image:: cheesepics/031864-jasper-hill-little-hosmer-01.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: Vermont
+- **Milk**: Cow
+- **Purchase location**: Jasper Hill Farm Giftbox
+- **Purchase date**: 11/22/22
+- **Julie's comments**: Soft white/ivory ripe cheese with a soft center & bright white rind. Buttery, mild, salty, mildly herby, bright flavor. Maybe a hint of grass & melon? Brie-like, but a bit more mild & less gooey. Very tasty to me despite the Brie-ness  **4.52/5**
+- **Andrew's comments**: Buttery, salty, a bit sweet, with a mild bit of funk coming in late. Rich Brie-like flavor but also pretty mild. Texture is slightly firmer than average Brie, with nice chewy rind gradient. I could go for slightly more funk but very tasty and snackable.  **3.95/5**
+- **Thanks to Barb & Rob Necarsulmer for this cheese!**
+
 Mild Triple Crème Brie (Wegmans)
 ----------------- 
 .. image:: cheesepics/triplecremebrie.png 
@@ -87,5 +128,19 @@ New Moon (Chapel Hill Creamery)
 - **Purchase date**: 07/10/22
 - **Julie's comments**: Soft white cheese - white criss-crossed rind with gooey tan inside, "semi-ripened". Very creamy, semi-salty, funky cheese - like the funk/tang/"electric-ish" flavor that goes to back of throat. A bit too funky for me, but not bad.  **1.97/5**
 - **Andrew's comments**: Interesting texture, semi-firm chewy rind with gooey center. Especially cold it has nice mouth feel. Mild up front, salty funky flavor comes in midway through. Interesting unique funk, has grown on me.  **3.5/5**
+
+Willoughby (Jasper Hill Farm)
+----------------- 
+.. image:: cheesepics/Willoughby.png 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: Vermont
+- **Milk**: Cow
+- **Purchase location**: Jasper Hill Farm Giftbox
+- **Purchase date**: 11/22/22
+- **Julie's comments**: Soft ripened round cheese - yellowish gooey inner part with a tan/pinkinsh rind. Buttery as fuck - has a lot of Brie vibes, but darker in color & milder in flavor, not very salty. Excellent with cranberry sauce, on crackers, or jam. This is helping me on my journey to like Brie.  **4.47/5**
+- **Andrew's comments**: Mmm tasty. Very buttery with Brie-like flavors, a bit mushroomy, & a mild funkiness. Super light & airy. Gooey texture & melts in mouth. Very thin rind compared to most Brie, not much chewiness.  **4.3/5**
+- **Thanks to Barb & Rob Necarsulmer for this cheese!**
 
 

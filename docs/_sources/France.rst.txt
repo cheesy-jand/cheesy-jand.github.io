@@ -40,6 +40,20 @@ Apple Cider Showmmmz (Wegmans)
 - **Julie's comments**: Soft but sturdy ivory cheese with a tan-brown crumbly, slimyish rind. Subtle grassy, mushroomy flavor, salty at the end, a bit of funky tang, especially at rind. Decent cheese, incredible name, okay flavor.  **2.38/5**
 - **Andrew's comments**: Interesting flavor/texture profression, from salty, chewy, gritty rind at first, hint of a "bright" flavor I can't place. Then moves into grassy, funky, brie-like (but firmer) center. Aftertaste is less pleasant.  **3.4/5**
 
+Cave-Ripened Mild Brie (Wegmans)
+----------------- 
+.. image:: cheesepics/b042fd9c17daffd4574c125b3057f3982390569b.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Brie-like
+- **Milk**: Cow
+- **Purchase location**: Wegmans
+- **Purchase date**: 09/17/22
+- **Julie's comments**: Creamy soft white cheese, looks like brie. Very mild, only slight funk, very buttery and creamy. Great with a spicy jam, or the raspberry mustard stuff. For brie and me, it's good!  **4.02/5**
+- **Andrew's comments**: Supper buttery/creamy, rich, salty. Fairly mild, a bit of funk up front but dissapates quickly into butter. Nice texture, medium soft, not too runny, with a bit of chewy rind.  **4.1/5**
+- **Thanks to Barb & Rob Necarsulmer for this cheese!**
+
 Comte (Wegmans)
 ----------------- 
 .. image:: cheesepics/00278551000002-cmRni8SlSTeAog1-en-US-0_s500.jpg 
@@ -106,6 +120,19 @@ Mild Triple Crème Brie (Wegmans)
 - **Julie's comments**: Golly gee so creamy! Buttery with a sour/funky brie taste, salty. Very spreadable - good with flat bread or a stronger cracker flavor. Considering I don't love Brie usually, this is pretty good  **3.49/5**
 - **Andrew's comments**: Super creamy and soft, much more than average Brie. Nice chewy rind as contrast. More funky than average brie, subtle Blue notes.  **4.0/5**
 - **Thanks to Barb & Rob Necarsulmer for this cheese!**
+
+P'Tit Basque Sheep's Milk Cheese (Istara)
+----------------- 
+.. image:: cheesepics/ptitbasque.png 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Other
+- **Milk**: Sheep
+- **Purchase location**: Wegmans
+- **Purchase date**: 10/09/22
+- **Julie's comments**: Tan cheese (pale, off white) with a light brown patterned rind. Firm cheese, dry texture, but not in a bad way. Mild flavor, nutty, not salty, a mild caramel flavor. Tastes a bit like a Cheddar. Very snackable and tasty.  **3.97/5**
+- **Andrew's comments**: Nutty, creamy, slightly sweet, slightly sharp, just a tiny hint of funk if you look for it (more on rind), but pretty mild overall. Taste reminds me of Manchego a bit, but texture more chewy. Supremely snackable.  **4.1/5**
 
 Pyrenees Brebis (Murray's Cheese)
 ----------------- 

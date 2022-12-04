@@ -1,5 +1,19 @@
 Wisconsin 
 ====================== 
+Barnum Blue (Blakesville Creamery)
+----------------- 
+.. image:: cheesepics/barnum.png 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Blue
+- **Milk**: Goat
+- **Purchase location**: Unknown
+- **Purchase date**: 11/24/22
+- **Julie's comments**: Blue! Stinky! Has a mottled grainy brown thin rind with an ivory & blue/green middle. Firm & crumbly, relatively smooth texture. Salty & funky in the way that goes to the back of the throat. It's not toooo moldy old blue cheese - salt helps balance.  **2.81/5**
+- **Andrew's comments**: Salty, funky blue taste, rich but not overpowering. Really nice subtle flavor compared to more standard Blues. Bit of strange aftertaste though, slightly metallic. Great texture, firmer than other Blues, crumbly & chewy simultaneously. Afternote: their website describes texture as fudgy, which is perfect description.  **4.1/5**
+- **Thanks to Manki Kim & Zoey Song for this cheese!**
+
 Buttermilk Blue Cheese (Roth)
 ----------------- 
 .. image:: cheesepics/Roth_Product_ButtermilkBlue_4oz-785x690.png 
@@ -53,6 +67,19 @@ Hika Bay (Saxon Homestead Creamery)
 - **Purchase date**: 08/16/22
 - **Julie's comments**: Firm, tan cheese with pale orange rind - smooth consistent gummy/creamy texture. Mild nutty & toast/caramel/butterscotch (?) flavor, also buttercream, not salty. Multifunctional cheese. Would pair with most things. Not remarkable, but good.  **3.18/5**
 - **Andrew's comments**: At first it tastes like Swiss, but tastier & more complex. Nutty & caramely & a bit sweet. Texture is smooth & a bit gummy, but not too much. Some occassional crystal "sparkles". Not a fave, but good & unique addition to cheese board.  **3.3/5**
+
+Hika Bay (Saxon Homestead Creamery)
+----------------- 
+.. image:: cheesepics/51lT2Z3we-L._SX679_.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Other
+- **Milk**: Cow
+- **Purchase location**: Whole Foods
+- **Purchase date**: 10/26/22
+- **Julie's comments**: Pale yellow cheese with thin orange waxy rind. Mild, aged nuttiness - a bit of swiss-like grassy flavor, a bit of brown butter later. Snackable for sure, versatile cheese, does dry out at the edges so seal well.  **3.39/5**
+- **Andrew's comments**: Nutty, milky, Swissy flavor. Very mild, pretty boring tbh. Texture is crumbly & sort of dry (though we bought on sale so maybe a bit old). Tasty enough but unremarkable.  **2.1/5**
 
 Merlot Bellavitano (Sartori)
 ----------------- 

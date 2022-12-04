@@ -1,6 +1,6 @@
 Italy 
 ====================== 
-Caciacavallo (Julia's uncle)
+Caciacavallo (Giulia's uncle)
 ----------------- 
 .. image:: cheesepics/caciacavallo.png 
         :align: right 
@@ -8,11 +8,37 @@ Caciacavallo (Julia's uncle)
 
 - **Style**: Caciacavallo
 - **Milk**: Unknown
-- **Purchase location**: Julia's Uncle
+- **Purchase location**: Giulia's Uncle
 - **Purchase date**: 01/09/22
 - **Julie's comments**: Shaped like a bell with a top knob thing. Tan with a layered waxy rind. Salty, dry, umami. Tastes remarkably like salami - aged, meaty. Most unique cheese thus far for me - addictive.   **4.39/5**
 - **Andrew's comments**: Honestly such a strange cheese… very confusing taste, but it has grown on me and I love it. Salty and meaty, texture a bit like jerky especially near rind. Would probably go great with charcuterie if that's your thing. Also kind of sour, vaguely like kimchi? Extremely snackable, especially with chip to take the edge off. Very unique.  **4.69/5**
-- **Thanks to Giulia Fragola for this cheese!**
+- **Thanks to Giulia Fragola et al for this cheese!**
+
+Casatica di Bufala (Quattro Portoni)
+----------------- 
+.. image:: cheesepics/a14ebac6bde044aa824200bbf485cc0f.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Other
+- **Milk**: Water buffalo
+- **Purchase location**: Wegmans
+- **Purchase date**: 10/09/22
+- **Julie's comments**: Soft white cheese with a grayish moldy looking rind. Bitter with a bummy fresh mozzarella-y texture. Way down tastes kind of buttery and sweet like Brie but overtop of it it's just bitter. But maybe ours is bad or old. A little funky too. Not my favorite, was better when first opened but still not my favorite.  **0.8/5**
+- **Andrew's comments**: I really don't like this one. Flavor is a mix of metallic bitterness and funky barn dirt. Some creamy Brie in there somewhere but hard to find. Interior is unpleasant gummy texture and rind is unpleasant crumbly texture. The Wegmans guy said it was nice warmed up as a spread, which we didn't try, to be fair. But I doubt it.  **0.4/5**
+
+Fontina Fontal (FABES)
+----------------- 
+.. image:: cheesepics/fabes.png 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Alpine
+- **Milk**: Cow
+- **Purchase location**: Whole Foods
+- **Purchase date**: 10/26/22
+- **Julie's comments**: Pale ivory-ish cheese with a patterned orange waxy rind, firm. Creamy, mildly gummy texture that disintegrates in the mouth. Very mild cheese - a bit nutty & salty but overall neutral, yet not too boring. Would be great paired with any yummy jam.  **3.04/5**
+- **Andrew's comments**: Mild, buttery, with a bit of sharp & tangy finish. Reminds me a bit of an artisinal fancier Muenster. Nice semi firm, semi chewy texture. Not the most exciting, has some "cheese cube" vibes, but super snackable & easy to put away a lot. Probably nice melted on sammie.  **3.5/5**
 
 Fontina Val D'Aosta (Mitica)
 ----------------- 
@@ -27,6 +53,19 @@ Fontina Val D'Aosta (Mitica)
 - **Julie's comments**: Tan semi firm smooth-looking cheese with a patterned thin rind - gradient of firmness toward rind. Interior is smooth, a bit gummy, with woodsy, nutty, creamy, mild flavor. Exterior is very funky, tangy, almost bitter. Ages fine.  **2.04/5**
 - **Andrew's comments**: Very subtle - nice & interesting flavor, but you have to pay attention. Nutty, buttery, semi-funky especially at rind. Very pleasant texture. Semi-hard, with gradient, and particley rind. Bit bitter as aged.  **2.8/5**
 
+Italian Truffle Cheese (Trader Joe's)
+----------------- 
+.. image:: cheesepics/tjtruffle.png 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Flavored
+- **Milk**: Cow
+- **Purchase location**: Trader Joe's
+- **Purchase date**: 10/15/22
+- **Julie's comments**: Firm off white cheese with brown mini mushroom looking flakes. It's got a bummy texture and a very rich buttery garlicky mushroom flavor. A little salty but not too much. It's tasty but a little too rich for me to eat a whole block.  **3.32/5**
+- **Andrew's comments**: Rich buttery truffley flavor, nicely integrated into the cheese. It's hard to tell if the cheese itself is quality below the truffle if that makes sense. Seems like a sort of standard Monterrey Jack type. It's tasty and snackable but maybe a bit cheating. Semi firm semi chewy, unremarkable texture.  **2.7/5**
+
 Pecorino Moro di Sardegna (Tigros)
 ----------------- 
 .. image:: cheesepics/morodisardegna.png 
@@ -39,7 +78,7 @@ Pecorino Moro di Sardegna (Tigros)
 - **Purchase date**: 01/09/22
 - **Julie's comments**: This one has some funk! Salty, umami, with a lot of creamy and a bit of tang. Firm, soft texture (not crumbly) that melts in the mouth. Original taste, different from other pecorinos. Polarizing, I go back and forth.  **2.4/5**
 - **Andrew's comments**: A bit funky, nutty, umami. Medium firmness, nice texture with harder rind. I keep going back and forth on this one bite to bite. Addendum: After another couple of days I'm back to liking this less.  **2.2/5**
-- **Thanks to Giulia Fragola for this cheese!**
+- **Thanks to Giulia Fragola et al for this cheese!**
 
 Pecorino Romano   (Murray's Cheese)
 ----------------- 
@@ -67,7 +106,7 @@ Pecorino Romano DOP (Tigros)
 - **Purchase date**: 01/09/22
 - **Julie's comments**: Oh golly gee this is amazing cheese. Hard, aged cheese with a large crumbly texture. Nutty, rich, creamy and also salty and buttery. Great alone, on a tomato sauce dish too… yummm  **4.79/5**
 - **Andrew's comments**: This cheese is so good. Like what Parmesan wants to be after its 10,000 hours. Creamy, salty, nutty, umami. Hard & crumbly but pleasant mouth feel.  **4.8/5**
-- **Thanks to Giulia Fragola for this cheese!**
+- **Thanks to Giulia Fragola et al for this cheese!**
 
 Pichin (Lou Bergier)
 ----------------- 
@@ -94,7 +133,7 @@ Provolone Picante (Auricchio)
 - **Purchase date**: 01/09/22
 - **Julie's comments**: Sharp, salty, tangy, SHARP cheese, with nutty undertones. Great with a zesty pasta sauce and an Italian red wine. Firm, dense, and layered/stringy texture with flavor that lingers. Stands well alone.  **3.96/5**
 - **Andrew's comments**: Sharp and salty, tastes a bit like the Pecorino Romano I think, but more subtle. Crumbly texture, slightly grainy. Pretty good, but not super memorable.  **2.6/5**
-- **Thanks to Giulia Fragola for this cheese!**
+- **Thanks to Giulia Fragola et al for this cheese!**
 
 Quadrello di Bufala (Quattro Portoni)
 ----------------- 
@@ -134,7 +173,7 @@ Taleggio DOP (Unknown)
 - **Purchase date**: 01/09/22
 - **Julie's comments**: Woah! This is tasty and very different from other Taleggio. Unique cheese. Very creamy, a bit buttery, tangy and salty (maybe a bit too salty). Firmer than Brie but similar texture. Excellent with red wine and a simple cracker.  **4.57/5**
 - **Andrew's comments**: Quite rich and creamy, soft but "sticker" texture than other Taleggio. I wish it had a firmer rind like the other. Tastes fairly funky and quite salty. Feels a bit one dimensional compared to the other Taleggio.  **2.7/5**
-- **Thanks to Giulia Fragola for this cheese!**
+- **Thanks to Giulia Fragola et al for this cheese!**
 
 Ubriacone (Mitica)
 ----------------- 

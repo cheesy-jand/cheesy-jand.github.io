@@ -66,6 +66,19 @@ Leonara (Mitica)
 - **Julie's comments**: Soft white goat's milk cheese, gray rind, looks like brie. Funky & tanky, very creamy, texture almost like cream cheese. At first I didn't like it, but it grew on me. Very rick, but also light/bright.  **4.13/5**
 - **Andrew's comments**: Very unusual, creamy & soft like brie but with blue-like funkiness. Great on its own. Would be interesting on a burger.  **4.3/5**
 
+Manchego (Ponce de Leon)
+----------------- 
+.. image:: cheesepics/poncedeleon.png 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Manchego
+- **Milk**: Sheep
+- **Purchase location**: Weaver Street
+- **Purchase date**: 10/01/22
+- **Julie's comments**: Pale tan firm with classic striped brown/purple rind. Nutty, salty, buttery cheese, a bit of caramel aftertaste, but also meaty? Very snackable - not an excellent Manchego (2.0/5), but still very tasty in general.  **3.92/5**
+- **Andrew's comments**: Salty, buttery, tangy, bright, and semi sharp. Sort of firm, a bit crumbly. So snackable, could (no, did) eat a lot of this.  **3.9/5**
+
 Naked Goat Cheese (Quesera Montesinos)
 ----------------- 
 .. image:: cheesepics/nakedgoat.png 
@@ -91,6 +104,19 @@ Sottocenere al Tartufo (Mitica)
 - **Purchase date**: 03/26/22
 - **Julie's comments**: Pale white cheese with dusty, 2mm thick purple-black rind. Cheese is creamy, buttery, garlicky - very truffle-like. Sweet undernotes, but mostly strong truffle flavor overpowers. Rind is gritty, but I don't hate it. Very snackable, but rich so I eat/want less.  **3.01/5**
 - **Andrew's comments**: Very truffly & garlicky, tastes more like an hors d'oeuvres than just cheese. The underlying cheese is creamy though unremarkable, but truffle flavor dominates. Snackable on its own, very nice with naan, probably other bread.  **3.3/5**
+
+Spanish Manchego (Trader Joe's)
+----------------- 
+.. image:: cheesepics/manchego-anejo-cheese.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Manchego
+- **Milk**: Sheep
+- **Purchase location**: Trader Joe's
+- **Purchase date**: 10/15/22
+- **Julie's comments**: Tan offwhite firm cheese with a stripy red waxy rind. Kind of crumbly texture. Buttery grassy taste, a little bit of nuttiness as well. Not the best Manchego I've ever had but it is incredibly snackable and I could eat a whole block in one sitting if I didn't throw up first.  **3.78/5**
+- **Andrew's comments**: Has that classic tangy, milky Manchego taste, with a bit of grassiness on the finish. Crumbly chewy texture, with waxy rind adding nice bit of firmness. This one has dried out a bit since we got it. Not the peak Manchego but still very snackable.  **3.5/5**
 
 The Smokin' Goat (Mitica)
 ----------------- 

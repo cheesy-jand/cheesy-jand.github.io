@@ -142,6 +142,33 @@ Ten Year Aged Cheddar (Hook's Cheese Company)
 - **Andrew's comments**: Intense cheddar essence, sharp, tangy, salty. Dense aged texture, but melts in your mouth. Some random crystals bring a nice surprise. A bit gummy. So rich I don't want much at a time, but damn that's tasty.  **4.6/5**
 - **Thanks to Deanna Zhu for this cheese!**
 
+Valut 5 Cave-Aged Cheddar (Jasper Hill Farm)
+----------------- 
+.. image:: cheesepics/Cheese_Vault_5_600x480.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: Vermont
+- **Milk**: Cow
+- **Purchase location**: Wegmans
+- **Purchase date**: 10/09/22
+- **Julie's comments**: Tan brown hard cheese with rind that looks like brown salt and pepper. Nutty and woodsy and a teeny bit of funky flavor. Not very salty or buttery. I would not have guessed this was a Cheddar in any world. Definitely dries out.  **1.86/5**
+- **Andrew's comments**: Light brown, slightly orange, pretty hard. Looks more like an aged Gouda than Cheddar. Nutty and pretty funky. Just a touch of Cheddar sharpness, and a bit of Gouda caramel notes. Weird funky aftertaste. After note: apparently this includes Alphine-style cultures, which gives it its not-that-cheddary taste.  **1.9/5**
+
+Valut 5 Cave-Aged Cheddar (Jasper Hill Farm)
+----------------- 
+.. image:: cheesepics/Cheese_Vault_5_600x480.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: Vermont
+- **Milk**: Cow
+- **Purchase location**: Jasper Hill Farm Giftbox
+- **Purchase date**: 11/22/22
+- **Julie's comments**: Tan firm blocked cheese with a mottled bumpy light brown rind (looks like bread crust). Nutty & caramel flavors, not bery salty, a tiny bit of funk/bark at rind. Gummy/creamy texture, melts well & is delish melted. 1000x better than the last one of these we tried - very snackable now.  **4.34/5**
+- **Andrew's comments**: Nutty, mildly sharp, a bit of caramel, not very salty. Kind of like a cross between Cheddar & Gouda & Comte. Semi hard, a bit gummy, a bit crumbly. Was better first few days, tends to dry out & get gummy.  **3.4/5**
+- **Thanks to Barb & Rob Necarsulmer for this cheese!**
+
 Vermont Seriously Sharp White Cheddar (Cabot)
 ----------------- 
 .. image:: cheesepics/seriouslysharpcheddar.png 

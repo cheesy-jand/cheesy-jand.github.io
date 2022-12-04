@@ -26,6 +26,19 @@ Carolina Moon (Chapel Hill Creamery)
 - **Julie's comments**: White rind with slightly yellow soft interior. Very rich, creamy, buttery - a bit too much for me. Like a brie, but stronger, a bit more buttery & a bit of funk. I respect it, but this isn't my favorite style of cheese.  **3.06/5**
 - **Andrew's comments**: Rich & buttery, a bit funky but not too much. Soft center, firmer/chewy rind. I love this cheese, I could eat a whole wheel of this and a baguette for dinner.  **4.6/5**
 
+Cottonseed (Boxcar)
+----------------- 
+.. image:: cheesepics/Boxcarr-Cheese.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Brie-like
+- **Milk**: Cow + Goat
+- **Purchase location**: Weaver Street
+- **Purchase date**: 10/01/22
+- **Julie's comments**: Soft white ripe cheese that was still a tiny bit firm in the center (not 100% ripe). Creamy, salty, taste up front, then the funk comes up the nose/throat. Rind especially funky, but overall pretty mild. Not as buttery as some Brie-like cheeses. Note: rated while grumpy/tired.  **2.5/5**
+- **Andrew's comments**: Tasty Brie-like cheese, buttery, pretty mild but a nice bit of funk. A bit firmer than typical brie, which I like. But still soft & gooey center, chewier rind. Not remarkable but I like Brie.  **3.5/5**
+
 Daisy Hoop Cheese (Ashe County Cheese)
 ----------------- 
 .. image:: cheesepics/Ashe-County-Cheese5-400x526-1340542279 
@@ -108,6 +121,19 @@ Redbud (Boxcar)
 - **Purchase date**: 03/19/22
 - **Julie's comments**: Pimenton rubbed & smoked cheese. Hard, yellow/tan, aged cheese with a mottled red/brown thin rind - paprika-y! Mild nutty, salty, tangy flavor in interior. Subtle smoky, woodsy, mildly funky exterior by rind. Quite snackable, a bit dry. Great with pepper jelly.  **2.89/5**
 - **Andrew's comments**: Hard yellow cheese with interesting granules adding texture. Dried out a bit since we got it. Nutty, salty-sweet, & smoky/spicy (mild) after taste. Semi-funky rind. Great on its own, with chips, or with pepper jelly.  **4.3/5**
+
+Roasted Garlic Plant-Based Cheese Wedge (Dare)
+----------------- 
+.. image:: cheesepics/dare.png 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Vegan
+- **Milk**: Vegan
+- **Purchase location**: Asheville Farmer's Market
+- **Purchase date**: 10/22/22
+- **Julie's comments**: Pale white soft cheese in a wedge shape but the consistency of cream cheese. Tastes a bit like cream cheese, garlic flavor, also like helluva good French onion dip…yum…addictive. Not very cheese-like, more of a spread, but so tasty. Taste/general: 4.42/5. Vegan: 4.92/5. Cheesiness: 1.3/5.  **4.42/5**
+- **Andrew's comments**: Garlicky, salty, tastes justs like French onion dip. Airy cream cheese texture that melts in mouth. Not a huge fan of flavored cheeses generally (what's it hiding?), but definitely tasty as a spread, & impressive for vegan. General: 3.2/5. Vegan: 4.7/5.  **3.2/5**
 
 Rocket's Robiola (Boxcar)
 ----------------- 

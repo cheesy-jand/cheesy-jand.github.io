@@ -40,6 +40,19 @@ Drunken Goat (Mitica)
 - **Andrew's comments**: Cheese is creamy, milky, Nice but not the most exciting. Medium crumbly/chewy texture. The wine rine is tasty but very subtle, I wish it was more forward.  **2.4/5**
 - **Thanks to Tim & Abigail Necarsulmer for this cheese!**
 
+Italian Truffle Cheese (Trader Joe's)
+----------------- 
+.. image:: cheesepics/tjtruffle.png 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: Italy
+- **Milk**: Cow
+- **Purchase location**: Trader Joe's
+- **Purchase date**: 10/15/22
+- **Julie's comments**: Firm off white cheese with brown mini mushroom looking flakes. It's got a bummy texture and a very rich buttery garlicky mushroom flavor. A little salty but not too much. It's tasty but a little too rich for me to eat a whole block.  **3.32/5**
+- **Andrew's comments**: Rich buttery truffley flavor, nicely integrated into the cheese. It's hard to tell if the cheese itself is quality below the truffle if that makes sense. Seems like a sort of standard Monterrey Jack type. It's tasty and snackable but maybe a bit cheating. Semi firm semi chewy, unremarkable texture.  **2.7/5**
+
 Merlot Bellavitano (Sartori)
 ----------------- 
 .. image:: cheesepics/pdp-size-bv-merlot-wedge.jpg 

@@ -39,6 +39,33 @@ Boo-da Gouda (Spring Koe)
 - **Julie's comments**: Cantaloupe-colored with black rind, hard/firm. Mix of cheddar & gouda taste, not remarkable but good, melts well. Creamyish, sharp deep flavor, good with spice.  **2.81/5**
 - **Andrew's comments**: Agreed, gouda-cheddar hybrid, moderately sharp. Nice semi-crumbly mouthfeel. Very nice with a salty chip, super snackable.  **3.2/5**
 
+Clarina Vintage 36-Month Old Gouda (Artikaas)
+----------------- 
+.. image:: cheesepics/67f04c10-72b1-11e9-b947-8385855fd8ef.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: Netherlands
+- **Milk**: Cow
+- **Purchase location**: Whole Foods
+- **Purchase date**: 10/26/22
+- **Julie's comments**: Hard pale orange cheese with a orange brown waxy rind. Solid but kind of crumbly texture with some large salty cheese crystals throughout. A salty caramely nutty flavor that is very sharp and aged tasting. Tastes a bit like a Cheddar but also like cheese whiz but in a good way. Pretty snackable, would be great with a good jam and with a red wine. Can't eat a ton at one time because it does dry out the mouth.  **3.74/5**
+- **Andrew's comments**: Very sharp, a bit Cheddary but definitely has that aged Gouda caramely nutty taste going on. A bit of leathery or tobacco-y flavor in there too which is interesting. Would go well with jam or Bourbon. Texture is a bit gummy and chalky which isn't my favorite but has some nice crystals. It's probably too sharp for me to want much in a row, but very nice addition to a diverse cheese board.  **3.7/5**
+
+Comtesse Gouda (Brugge)
+----------------- 
+.. image:: cheesepics/sfeer_brugge_comtesse_hor.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: Belgium
+- **Milk**: Cow
+- **Purchase location**: West Chester Food Cupboard
+- **Purchase date**: 09/17/22
+- **Julie's comments**: Hard tan cheese with a dark blue waxy rind. Nutty, caramelly gouda with salt crystals throughout. Tastes aged, sharper than many goudas. Dries out easily - near rind becomes very hard. Average cheese but very snackable.  **2.82/5**
+- **Andrew's comments**: Nutty, caramelly, a bit salty/sweet. Nice Gouda flavor, but not a fan of the gummy texture. Definitely snackable but not remarkable.  **3.0/5**
+- **Thanks to Barb & Rob Necarsulmer for this cheese!**
+
 Estate Gouda (Murray's Cheese)
 ----------------- 
 .. image:: cheesepics/20470800000.1.jpg 

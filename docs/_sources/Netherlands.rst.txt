@@ -39,6 +39,19 @@ Boo-da Gouda (Spring Koe)
 - **Julie's comments**: Cantaloupe-colored with black rind, hard/firm. Mix of cheddar & gouda taste, not remarkable but good, melts well. Creamyish, sharp deep flavor, good with spice.  **2.81/5**
 - **Andrew's comments**: Agreed, gouda-cheddar hybrid, moderately sharp. Nice semi-crumbly mouthfeel. Very nice with a salty chip, super snackable.  **3.2/5**
 
+Clarina Vintage 36-Month Old Gouda (Artikaas)
+----------------- 
+.. image:: cheesepics/67f04c10-72b1-11e9-b947-8385855fd8ef.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Gouda
+- **Milk**: Cow
+- **Purchase location**: Whole Foods
+- **Purchase date**: 10/26/22
+- **Julie's comments**: Hard pale orange cheese with a orange brown waxy rind. Solid but kind of crumbly texture with some large salty cheese crystals throughout. A salty caramely nutty flavor that is very sharp and aged tasting. Tastes a bit like a Cheddar but also like cheese whiz but in a good way. Pretty snackable, would be great with a good jam and with a red wine. Can't eat a ton at one time because it does dry out the mouth.  **3.74/5**
+- **Andrew's comments**: Very sharp, a bit Cheddary but definitely has that aged Gouda caramely nutty taste going on. A bit of leathery or tobacco-y flavor in there too which is interesting. Would go well with jam or Bourbon. Texture is a bit gummy and chalky which isn't my favorite but has some nice crystals. It's probably too sharp for me to want much in a row, but very nice addition to a diverse cheese board.  **3.7/5**
+
 Estate Gouda (Murray's Cheese)
 ----------------- 
 .. image:: cheesepics/20470800000.1.jpg 

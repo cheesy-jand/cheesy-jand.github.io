@@ -34,6 +34,19 @@ Appalachian (Meadow Creek)
 
 - **Origin**: Virginia
 - **Milk**: Cow
+- **Purchase location**: Whole Foods
+- **Purchase date**: 02/13/22
+- **Julie's comments**: Raw milk cheese, aged 60+ days. Off-yellow firm cheese with a tan brown crumbly rind. Unique flavors - sharp & umami with some funk & also licorice taste. Earthy AF. Pretty smooth texture. I want to like it but also not…  **1.8/5**
+- **Andrew's comments**: Very interesting cheese. Texture gradient from smooth medium-hard center to crumbly outer coating. Definitely funky & earthy, with that weirdly pleasant barn floor flavor. Almost too weird, but not quite, I like it.  **3.8/5**
+
+Appalachian (Meadow Creek)
+----------------- 
+.. image:: cheesepics/appalachian.png 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: Virginia
+- **Milk**: Cow
 - **Purchase location**: Weaver Street
 - **Purchase date**: 04/28/22
 - **Julie's comments**: Yellowy pale, semi soft cheese with a brown & white soft rind. Creamy, rich, funky in that way that goes up your throat/i9nto nose. Not unpleasant, though. Earthy & woodsy, not very salty, probably good on apples & some pepper jelly. Better first day for me.  **3.49/5**
@@ -47,10 +60,10 @@ Appalachian (Meadow Creek)
 
 - **Origin**: Virginia
 - **Milk**: Cow
-- **Purchase location**: Whole Foods
-- **Purchase date**: 02/13/22
-- **Julie's comments**: Raw milk cheese, aged 60+ days. Off-yellow firm cheese with a tan brown crumbly rind. Unique flavors - sharp & umami with some funk & also licorice taste. Earthy AF. Pretty smooth texture. I want to like it but also not…  **1.8/5**
-- **Andrew's comments**: Very interesting cheese. Texture gradient from smooth medium-hard center to crumbly outer coating. Definitely funky & earthy, with that weirdly pleasant barn floor flavor. Almost too weird, but not quite, I like it.  **3.8/5**
+- **Purchase location**: Weaver Street
+- **Purchase date**: 10/01/22
+- **Julie's comments**: Firm yellowy-tan cheese with a flaky, cakey, brown and white rind. Very grassy, a bit staticky/funky taste, especially at the rind. Some nutty and woodsy flavor, some aged Comte vibes. Not a great melty cheese nor is it super snackable…  **1.85/5**
+- **Andrew's comments**: Nutty, semi sweet, almost meaty flavor in interior, quite funky/barny rind. Really nice semi firm, smooth, chewy texture. I think this one is quite snackable, at least in center.  **3.9/5**
 
 Apple Cider Showmmmz (Wegmans)
 ----------------- 
@@ -64,6 +77,19 @@ Apple Cider Showmmmz (Wegmans)
 - **Purchase date**: 09/04/22
 - **Julie's comments**: Soft but sturdy ivory cheese with a tan-brown crumbly, slimyish rind. Subtle grassy, mushroomy flavor, salty at the end, a bit of funky tang, especially at rind. Decent cheese, incredible name, okay flavor.  **2.38/5**
 - **Andrew's comments**: Interesting flavor/texture profression, from salty, chewy, gritty rind at first, hint of a "bright" flavor I can't place. Then moves into grassy, funky, brie-like (but firmer) center. Aftertaste is less pleasant.  **3.4/5**
+
+Casatica di Bufala (Quattro Portoni)
+----------------- 
+.. image:: cheesepics/a14ebac6bde044aa824200bbf485cc0f.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: Italy
+- **Milk**: Water buffalo
+- **Purchase location**: Wegmans
+- **Purchase date**: 10/09/22
+- **Julie's comments**: Soft white cheese with a grayish moldy looking rind. Bitter with a bummy fresh mozzarella-y texture. Way down tastes kind of buttery and sweet like Brie but overtop of it it's just bitter. But maybe ours is bad or old. A little funky too. Not my favorite, was better when first opened but still not my favorite.  **0.8/5**
+- **Andrew's comments**: I really don't like this one. Flavor is a mix of metallic bitterness and funky barn dirt. Some creamy Brie in there somewhere but hard to find. Interior is unpleasant gummy texture and rind is unpleasant crumbly texture. The Wegmans guy said it was nice warmed up as a spread, which we didn't try, to be fair. But I doubt it.  **0.4/5**
 
 Doeling (Boxcar)
 ----------------- 
@@ -117,6 +143,19 @@ Gabietou (Herve Mons)
 - **Julie's comments**: Semi firm/kinda soft tan cheese with a brown crusty rind. Creamy but firm texture. Salty & sheep/funky up front but pretty mellow. Rind is dirt-like and not my fave, but isn't bad. Solid mildly funky cheese.  **3.19/5**
 - **Andrew's comments**: Soft center with gritty-but-in-a-pleasing-way rind, nice texture. Salty, semi-funky rind but mildish center. A bit sweet even. Hard to rate, interesting but also a bit boring simultaneously.  **2.8/5**
 
+Glarner Alpkase (Alp Heuboden)
+----------------- 
+.. image:: cheesepics/glarner-alpkaese-alt-rezent-jaehrig-glarussell-01-768x878.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: Switzerland
+- **Milk**: Cow
+- **Purchase location**: Weaver Street
+- **Purchase date**: 11/07/22
+- **Julie's comments**: Firm tan cheese with a gritty light brown rind. Grassy, earthy, salty flavor - kind of salty & a bit funky at the end. Similar taste to a Comte, but less funky & better. Gummyish texture, a bit dry after time.  **2.45/5**
+- **Andrew's comments**: Grassy, Comte-like cheese, but I like it better than most of this style. Center had unique salty sweet flavor. Outer rind funkier, less tasty. Texture good at first, but dried & got a bit gummy.  **3.7/5**
+
 Grayson (Meadow Creek)
 ----------------- 
 .. image:: cheesepics/meadow-creek-grayson.jpg 
@@ -130,6 +169,20 @@ Grayson (Meadow Creek)
 - **Julie's comments**: Aged over 60 days. This is a funky cheese. Semi soft inside, hard crusty rind. Deep, fatty flavor, that is also kind of fishy? Pork/ham notes, quite umami. Okay on cracker, slightly warmed on a bittery salad.  **1.6/5**
 - **Andrew's comments**: Did not like this at first but it has grown on me. Definitely funky with strongish smell and weird mix of textures (soft middle, rubbery outside). But flavor is interesting, with a couple "waves". Somehow the aftertaste reminds me of a barn, more pleasant than it sounds.  **2.1/5**
 
+Harbison Spruce Bark-Wrapped Bloomy Rind Cheese (Jasper Hill Farm)
+----------------- 
+.. image:: cheesepics/Cheeses_-_Harbison_2_of_2.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: Vermont
+- **Milk**: Cow
+- **Purchase location**: Carlinos
+- **Purchase date**: 09/17/22
+- **Julie's comments**: Soft white/tan creamy cheese wrapped in leathery bark. Complex funky yet sweet/caramel flavor. Not salty, tastes rich & fattry, also mushroomy, barky. Designed to pair with Rasberry Mostarda jam/mustard combo, which is amazing (separate & together). Unique, hard to rate, subtle & tasty but not my usual style. I respect this cheese.  **3.67/5**
+- **Andrew's comments**: Milky, buttery, salty taste, a bit sweet. Smells very funky but taste is surprisingly mild (note: other bites funkier). Interesting texture prile - light and gooey, almost slimy center, with chewy exterior. Very nice pairing with mustard raspberry jam.  **4.0/5**
+- **Thanks to Barb & Rob Necarsulmer for this cheese!**
+
 Hickory Grove (Chapel Hill Creamery)
 ----------------- 
 .. image:: cheesepics/1350f13d6c2df6d7f334d5e2e93cb40a.jpg 
@@ -142,6 +195,19 @@ Hickory Grove (Chapel Hill Creamery)
 - **Purchase date**: 08/21/21
 - **Julie's comments**: Butter and cheddar and a leeetle brie had a hot threesome to make this fine cheese. Semi soft, pale yellow/firm rind. A bit funky but only subtly (but smells funkier). Great on crackers, with salty spread, or alone. Creamy inside.  **4.81/5**
 - **Andrew's comments**: A top tier cheese to be sure. Very buttery and nice semi squishy texture, kind of like a butter & paneer baby (but better than that sounds). Great with salty tortilla chips.  **4.7/5**
+
+Hika Bay (Saxon Homestead Creamery)
+----------------- 
+.. image:: cheesepics/51lT2Z3we-L._SX679_.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: Wisconsin
+- **Milk**: Cow
+- **Purchase location**: Whole Foods
+- **Purchase date**: 10/26/22
+- **Julie's comments**: Pale yellow cheese with thin orange waxy rind. Mild, aged nuttiness - a bit of swiss-like grassy flavor, a bit of brown butter later. Snackable for sure, versatile cheese, does dry out at the edges so seal well.  **3.39/5**
+- **Andrew's comments**: Nutty, milky, Swissy flavor. Very mild, pretty boring tbh. Texture is crumbly & sort of dry (though we bought on sale so maybe a bit old). Tasty enough but unremarkable.  **2.1/5**
 
 Hika Bay (Saxon Homestead Creamery)
 ----------------- 
@@ -208,6 +274,19 @@ Naked Goat Cheese (Quesera Montesinos)
 - **Purchase date**: 07/02/22
 - **Julie's comments**: Slightly off-white, firm, mildly crumbly cheese, no rind. Creamy texture when softened. Tangy goat flavor, grassy, slightly acid, buttery flavor. Incredibly snackable - could eat a whole block at once.  **4.29/5**
 - **Andrew's comments**: Mmmm so tasty & snackable. Salty, tangy, creamy, some cottage cheese essence but tastier. Fairly soft & crumbly, plus some melting in mouth.  **4.55/5**
+
+P'Tit Basque Sheep's Milk Cheese (Istara)
+----------------- 
+.. image:: cheesepics/ptitbasque.png 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: France
+- **Milk**: Sheep
+- **Purchase location**: Wegmans
+- **Purchase date**: 10/09/22
+- **Julie's comments**: Tan cheese (pale, off white) with a light brown patterned rind. Firm cheese, dry texture, but not in a bad way. Mild flavor, nutty, not salty, a mild caramel flavor. Tastes a bit like a Cheddar. Very snackable and tasty.  **3.97/5**
+- **Andrew's comments**: Nutty, creamy, slightly sweet, slightly sharp, just a tiny hint of funk if you look for it (more on rind), but pretty mild overall. Taste reminds me of Manchego a bit, but texture more chewy. Supremely snackable.  **4.1/5**
 
 Paradiso Reserve (Beemster Cheese)
 ----------------- 

@@ -26,6 +26,19 @@ Challerhocker (Wegmans)
 - **Julie's comments**: Tan/pale firm cheese with a waxy crumbly rind. Creamy & mildly grainy texture, dissolves quickly. Salty up front, then grassy and then funky (static up the back of nose at end, especially the rind). At first I really didn't like it, but better on day 2.  **1.53/5**
 - **Andrew's comments**: This one's ok, a bit overly salty and rather funky in hay-like way. Some nice grains in texture. Does go up nose, less pleasant.  **0.8/5**
 
+Fontina Fontal (FABES)
+----------------- 
+.. image:: cheesepics/fabes.png 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: Italy
+- **Milk**: Cow
+- **Purchase location**: Whole Foods
+- **Purchase date**: 10/26/22
+- **Julie's comments**: Pale ivory-ish cheese with a patterned orange waxy rind, firm. Creamy, mildly gummy texture that disintegrates in the mouth. Very mild cheese - a bit nutty & salty but overall neutral, yet not too boring. Would be great paired with any yummy jam.  **3.04/5**
+- **Andrew's comments**: Mild, buttery, with a bit of sharp & tangy finish. Reminds me a bit of an artisinal fancier Muenster. Nice semi firm, semi chewy texture. Not the most exciting, has some "cheese cube" vibes, but super snackable & easy to put away a lot. Probably nice melted on sammie.  **3.5/5**
+
 Organic Grand Cru Reserve (Roth)
 ----------------- 
 .. image:: cheesepics/Untitled-design-31.png 

@@ -26,6 +26,19 @@ Challerhocker (Wegmans)
 - **Julie's comments**: Tan/pale firm cheese with a waxy crumbly rind. Creamy & mildly grainy texture, dissolves quickly. Salty up front, then grassy and then funky (static up the back of nose at end, especially the rind). At first I really didn't like it, but better on day 2.  **1.53/5**
 - **Andrew's comments**: This one's ok, a bit overly salty and rather funky in hay-like way. Some nice grains in texture. Does go up nose, less pleasant.  **0.8/5**
 
+Glarner Alpkase (Alp Heuboden)
+----------------- 
+.. image:: cheesepics/glarner-alpkaese-alt-rezent-jaehrig-glarussell-01-768x878.jpg 
+        :align: right 
+        :height: 200px 
+
+- **Style**: Other
+- **Milk**: Cow
+- **Purchase location**: Weaver Street
+- **Purchase date**: 11/07/22
+- **Julie's comments**: Firm tan cheese with a gritty light brown rind. Grassy, earthy, salty flavor - kind of salty & a bit funky at the end. Similar taste to a Comte, but less funky & better. Gummyish texture, a bit dry after time.  **2.45/5**
+- **Andrew's comments**: Grassy, Comte-like cheese, but I like it better than most of this style. Center had unique salty sweet flavor. Outer rind funkier, less tasty. Texture good at first, but dried & got a bit gummy.  **3.7/5**
+
 Kaltbach Le Cremeaux (Emmi)
 ----------------- 
 .. image:: cheesepics/kaltbach.png 

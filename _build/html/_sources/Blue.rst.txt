@@ -1,5 +1,19 @@
 Blue 
 ====================== 
+Barnum Blue (Blakesville Creamery)
+----------------- 
+.. image:: cheesepics/barnum.png 
+        :align: right 
+        :height: 200px 
+
+- **Origin**: Wisconsin
+- **Milk**: Goat
+- **Purchase location**: Unknown
+- **Purchase date**: 11/24/22
+- **Julie's comments**: Blue! Stinky! Has a mottled grainy brown thin rind with an ivory & blue/green middle. Firm & crumbly, relatively smooth texture. Salty & funky in the way that goes to the back of the throat. It's not toooo moldy old blue cheese - salt helps balance.  **2.81/5**
+- **Andrew's comments**: Salty, funky blue taste, rich but not overpowering. Really nice subtle flavor compared to more standard Blues. Bit of strange aftertaste though, slightly metallic. Great texture, firmer than other Blues, crumbly & chewy simultaneously. Afternote: their website describes texture as fudgy, which is perfect description.  **4.1/5**
+- **Thanks to Manki Kim & Zoey Song for this cheese!**
+
 Buttermilk Blue Cheese (Roth)
 ----------------- 
 .. image:: cheesepics/Roth_Product_ButtermilkBlue_4oz-785x690.png 
